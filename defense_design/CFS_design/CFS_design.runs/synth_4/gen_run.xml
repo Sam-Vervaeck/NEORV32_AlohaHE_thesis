@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_4" LaunchPart="xc7k325tffg900-2" LaunchTime="1725792441">
-  <File Type="RDS-UTIL" Name="CKKS_wrapper_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="CKKS_wrapper_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="CKKS_wrapper_utilization_synth.rpt"/>
   <File Type="RDS-RDS" Name="CKKS_wrapper.vds"/>
   <File Type="RDS-DCP" Name="CKKS_wrapper.dcp"/>
   <File Type="PA-TCL" Name="CKKS_wrapper.tcl"/>
@@ -1002,17 +1002,18 @@
   <Strategy Version="1" Minor="2">
     <StratHandle Name="Flow_AreaOptimized_high" Flow="Vivado Synthesis 2019"/>
     <Step Id="synth_design">
-      <Option Id="Directive">1</Option>
       <Option Id="ControlSetOptThreshold">1</Option>
+      <Option Id="Directive">1</Option>
     </Step>
   </Strategy>
-  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_cdma_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CKKS_clk_wiz_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_0_bram_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_proc_sys_reset_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_1_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_1_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_cdma_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_0_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_1_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_proc_sys_reset_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_clk_wiz_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_cdma_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_xbar_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_xbar_1"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_proc_sys_reset_0_0"/>
@@ -1022,5 +1023,4 @@
   <BlockFileSet Type="BlockSrcs" Name="CKKS_neorv32_vivado_ip_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_1"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_1_0"/>
 </GenRun>

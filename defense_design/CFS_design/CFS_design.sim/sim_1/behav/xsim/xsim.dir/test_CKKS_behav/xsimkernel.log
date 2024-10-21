@@ -1,7 +1,7 @@
-Running: xsim.dir/test_CKKS_behav/xsimk -simmode gui -wdb test_CKKS_behav.wdb -simrunnum 0 -socket 54243
+Running: xsim.dir/test_CKKS_behav/xsimk -simmode gui -wdb test_CKKS_behav.wdb -simrunnum 0 -socket 57039
 Design successfully loaded
 Design Loading Memory Usage: 78356 KB (Peak: 78548 KB)
-Design Loading CPU Usage: 190 ms
+Design Loading CPU Usage: 150 ms
 Simulation completed
 Simulation Memory Usage: 170964 KB (Peak: 217624 KB)
-Simulation CPU Usage: 6249840 ms
+Simulation CPU Usage: 520 ms

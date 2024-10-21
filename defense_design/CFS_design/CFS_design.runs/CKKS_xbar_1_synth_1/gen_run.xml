@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="CKKS_xbar_1_synth_1" LaunchPart="xc7k325tffg900-2" LaunchTime="1725599104">
-  <File Type="RDS-UTIL-PB" Name="CKKS_xbar_1_utilization_synth.pb"/>
   <File Type="RDS-UTIL" Name="CKKS_xbar_1_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="CKKS_xbar_1_utilization_synth.pb"/>
   <File Type="RDS-RDS" Name="CKKS_xbar_1.vds"/>
   <File Type="RDS-DCP" Name="CKKS_xbar_1.dcp"/>
   <File Type="PA-TCL" Name="CKKS_xbar_1.tcl"/>

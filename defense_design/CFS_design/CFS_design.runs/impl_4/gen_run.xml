@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="impl_4" LaunchPart="xc7k325tffg900-2" LaunchTime="1725792441">
-  <File Type="ROUTE-DRC-RPX" Name="CKKS_wrapper_drc_routed.rpx"/>
-  <File Type="ROUTE-PWR-SUM" Name="CKKS_wrapper_power_summary_routed.pb"/>
-  <File Type="ROUTE-STATUS-PB" Name="CKKS_wrapper_route_status.pb"/>
-  <File Type="BG-BIT" Name="CKKS_wrapper.bit"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="CKKS_wrapper_methodology_drc_routed.rpt"/>
-  <File Type="BG-DRC" Name="CKKS_wrapper.drc"/>
-  <File Type="ROUTE-ERROR-DCP" Name="CKKS_wrapper_routed_error.dcp"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CKKS_wrapper_methodology_drc_routed.rpx"/>
-  <File Type="ROUTE-PWR" Name="CKKS_wrapper_power_routed.rpt"/>
-  <File Type="OPT-DCP" Name="CKKS_wrapper_opt.dcp"/>
-  <File Type="ROUTE-DRC-PB" Name="CKKS_wrapper_drc_routed.pb"/>
-  <File Type="ROUTE-DRC" Name="CKKS_wrapper_drc_routed.rpt"/>
-  <File Type="PLACE-PRE-SIMILARITY" Name="CKKS_wrapper_incremental_reuse_pre_placed.rpt"/>
-  <File Type="BITSTR-MMI" Name="CKKS_wrapper.mmi"/>
-  <File Type="ROUTE-BUS-SKEW" Name="CKKS_wrapper_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-STATUS" Name="CKKS_wrapper_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="CKKS_wrapper_power_routed.rpx"/>
+  <File Type="PWROPT-DCP" Name="CKKS_wrapper_pwropt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CKKS_wrapper_postroute_physopt_bb.dcp"/>
+  <File Type="PLACE-DCP" Name="CKKS_wrapper_placed.dcp"/>
+  <File Type="OPT-DRC" Name="CKKS_wrapper_drc_opted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CKKS_wrapper_timing_summary_postroute_physopted.rpt"/>
+  <File Type="PLACE-IO" Name="CKKS_wrapper_io_placed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CKKS_wrapper_timing_summary_postroute_physopted.rpx"/>
+  <File Type="RDI-RDI" Name="CKKS_wrapper.vdi"/>
+  <File Type="PLACE-UTIL" Name="CKKS_wrapper_utilization_placed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CKKS_wrapper_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CKKS_wrapper_bus_skew_postroute_physopted.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CKKS_wrapper_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DCP" Name="CKKS_wrapper_routed.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="CKKS_wrapper_physopt.dcp"/>
+  <File Type="PLACE-CTRL" Name="CKKS_wrapper_control_sets_placed.rpt"/>
+  <File Type="BG-BIN" Name="CKKS_wrapper.bin"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="CKKS_wrapper_timing_summary_routed.rpt"/>
+  <File Type="BITSTR-NKY" Name="CKKS_wrapper.nky"/>
   <File Type="POSTPLACE-PWROPT-DCP" Name="CKKS_wrapper_postplace_pwropt.dcp"/>
   <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BITSTR-MMI" Name="CKKS_wrapper.mmi"/>
+  <File Type="ROUTE-BUS-SKEW" Name="CKKS_wrapper_bus_skew_routed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="CKKS_wrapper_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="CKKS_wrapper_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="CKKS_wrapper_drc_routed.pb"/>
+  <File Type="OPT-DCP" Name="CKKS_wrapper_opt.dcp"/>
+  <File Type="ROUTE-PWR" Name="CKKS_wrapper_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CKKS_wrapper_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-ERROR-DCP" Name="CKKS_wrapper_routed_error.dcp"/>
+  <File Type="BG-DRC" Name="CKKS_wrapper.drc"/>
+  <File Type="ROUTE-DRC-RPX" Name="CKKS_wrapper_drc_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="CKKS_wrapper_power_summary_routed.pb"/>
+  <File Type="BG-BIT" Name="CKKS_wrapper.bit"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="CKKS_wrapper_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="CKKS_wrapper_route_status.pb"/>
   <File Type="ROUTE-BLACKBOX-DCP" Name="CKKS_wrapper_routed_bb.dcp"/>
   <File Type="BG-BGN" Name="CKKS_wrapper.bgn"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="CKKS_wrapper_postroute_physopt.dcp"/>
@@ -36,26 +56,6 @@
   <File Type="PLACE-UTIL-PB" Name="CKKS_wrapper_utilization_placed.pb"/>
   <File Type="BITSTR-BMM" Name="CKKS_wrapper_bd.bmm"/>
   <File Type="ROUTE-CLK" Name="CKKS_wrapper_clock_utilization_routed.rpt"/>
-  <File Type="BITSTR-NKY" Name="CKKS_wrapper.nky"/>
-  <File Type="ROUTE-TIMINGSUMMARY" Name="CKKS_wrapper_timing_summary_routed.rpt"/>
-  <File Type="BG-BIN" Name="CKKS_wrapper.bin"/>
-  <File Type="PLACE-CTRL" Name="CKKS_wrapper_control_sets_placed.rpt"/>
-  <File Type="PHYSOPT-DCP" Name="CKKS_wrapper_physopt.dcp"/>
-  <File Type="ROUTE-DCP" Name="CKKS_wrapper_routed.dcp"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CKKS_wrapper_methodology_drc_routed.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CKKS_wrapper_bus_skew_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CKKS_wrapper_bus_skew_postroute_physopted.pb"/>
-  <File Type="PLACE-UTIL" Name="CKKS_wrapper_utilization_placed.rpt"/>
-  <File Type="RDI-RDI" Name="CKKS_wrapper.vdi"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CKKS_wrapper_timing_summary_postroute_physopted.rpx"/>
-  <File Type="PLACE-IO" Name="CKKS_wrapper_io_placed.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CKKS_wrapper_timing_summary_postroute_physopted.rpt"/>
-  <File Type="OPT-DRC" Name="CKKS_wrapper_drc_opted.rpt"/>
-  <File Type="PLACE-DCP" Name="CKKS_wrapper_placed.dcp"/>
-  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CKKS_wrapper_postroute_physopt_bb.dcp"/>
-  <File Type="PWROPT-DCP" Name="CKKS_wrapper_pwropt.dcp"/>
-  <File Type="ROUTE-PWR-RPX" Name="CKKS_wrapper_power_routed.rpx"/>
-  <File Type="ROUTE-STATUS" Name="CKKS_wrapper_route_status.rpt"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/bd/CKKS/CKKS.bd">
@@ -1064,21 +1064,22 @@
       <Option Id="Directive">0</Option>
     </Step>
     <Step Id="route_design">
-      <Option Id="MoreOptsStr"><![CDATA[-tns_cleanup]]></Option>
       <Option Id="Directive">0</Option>
+      <Option Id="MoreOptsStr"><![CDATA[-tns_cleanup]]></Option>
     </Step>
     <Step Id="post_route_phys_opt_design" EnableStepBool="1">
       <Option Id="Directive">0</Option>
     </Step>
     <Step Id="write_bitstream"/>
   </Strategy>
-  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_cdma_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CKKS_clk_wiz_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_0_bram_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_proc_sys_reset_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_1_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_1_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_cdma_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_0_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_1_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_proc_sys_reset_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_clk_wiz_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_cdma_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_xbar_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_xbar_1"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_proc_sys_reset_0_0"/>
@@ -1088,5 +1089,4 @@
   <BlockFileSet Type="BlockSrcs" Name="CKKS_neorv32_vivado_ip_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_1"/>
   <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_1_0"/>
 </GenRun>
