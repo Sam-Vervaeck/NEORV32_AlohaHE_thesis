@@ -1,0 +1,504 @@
+
+*** Running vivado
+    with args -log CKKS_wrapper.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source CKKS_wrapper.tcl
+
+
+****** Vivado v2019.1 (64-bit)
+  **** SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+  **** IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source CKKS_wrapper.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/home/sam/Documents/thesis-defense/thesis_neorv32/rtl/system_integration/neorv32_vivado_ip_work/packaged_ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2019.1/data/ip'.
+Command: synth_design -top CKKS_wrapper -part xc7k325tffg900-2 -directive AreaOptimized_high -control_set_opt_threshold 1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7k325t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7k325t'
+INFO: [Device 21-403] Loading part xc7k325tffg900-2
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 77426 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 1925.613 ; gain = 152.688 ; free physical = 4469 ; free virtual = 11547
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'CKKS_wrapper' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/hdl/CKKS_wrapper.vhd:24]
+INFO: [Synth 8-3491] module 'CKKS' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2909' bound to instance 'CKKS_i' of component 'CKKS' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/hdl/CKKS_wrapper.vhd:35]
+INFO: [Synth 8-638] synthesizing module 'CKKS' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2923]
+INFO: [Synth 8-3491] module 'CKKS_axi_bram_ctrl_0_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_bram_ctrl_0_0_stub.vhdl:5' bound to instance 'axi_bram_ctrl_0' of component 'CKKS_axi_bram_ctrl_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3348]
+INFO: [Synth 8-638] synthesizing module 'CKKS_axi_bram_ctrl_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_bram_ctrl_0_0_stub.vhdl:55]
+INFO: [Synth 8-3491] module 'CKKS_axi_bram_ctrl_0_bram_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_bram_ctrl_0_bram_0_stub.vhdl:5' bound to instance 'axi_bram_ctrl_0_bram' of component 'CKKS_axi_bram_ctrl_0_bram_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3395]
+INFO: [Synth 8-638] synthesizing module 'CKKS_axi_bram_ctrl_0_bram_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_bram_ctrl_0_bram_0_stub.vhdl:19]
+INFO: [Synth 8-3491] module 'CKKS_axi_bram_ctrl_1_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_bram_ctrl_1_0_stub.vhdl:5' bound to instance 'axi_bram_ctrl_1' of component 'CKKS_axi_bram_ctrl_1_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3407]
+INFO: [Synth 8-638] synthesizing module 'CKKS_axi_bram_ctrl_1_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_bram_ctrl_1_0_stub.vhdl:55]
+WARNING: [Synth 8-5640] Port 'cdma_tvect_out' is missing in component declaration [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3032]
+INFO: [Synth 8-3491] module 'CKKS_axi_cdma_0_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_cdma_0_0_stub.vhdl:5' bound to instance 'axi_cdma_0' of component 'CKKS_axi_cdma_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3454]
+INFO: [Synth 8-638] synthesizing module 'CKKS_axi_cdma_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_axi_cdma_0_0_stub.vhdl:61]
+INFO: [Synth 8-638] synthesizing module 'CKKS_axi_interconnect_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:1534]
+INFO: [Synth 8-638] synthesizing module 'm00_couplers_imp_5KETHI' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:308]
+INFO: [Synth 8-256] done synthesizing module 'm00_couplers_imp_5KETHI' (1#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:308]
+INFO: [Synth 8-638] synthesizing module 'm01_couplers_imp_121OWXC' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:499]
+INFO: [Synth 8-256] done synthesizing module 'm01_couplers_imp_121OWXC' (2#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:499]
+INFO: [Synth 8-638] synthesizing module 's00_couplers_imp_1MGPU5V' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:789]
+INFO: [Synth 8-256] done synthesizing module 's00_couplers_imp_1MGPU5V' (3#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:789]
+INFO: [Synth 8-638] synthesizing module 's01_couplers_imp_M4DVNP' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:1165]
+INFO: [Synth 8-3491] module 'CKKS_auto_pc_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_auto_pc_0_stub.vhdl:5' bound to instance 'auto_pc' of component 'CKKS_auto_pc_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:1337]
+INFO: [Synth 8-638] synthesizing module 'CKKS_auto_pc_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_auto_pc_0_stub.vhdl:67]
+INFO: [Synth 8-256] done synthesizing module 's01_couplers_imp_M4DVNP' (4#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:1165]
+INFO: [Synth 8-3491] module 'CKKS_xbar_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_xbar_0_stub.vhdl:5' bound to instance 'xbar' of component 'CKKS_xbar_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2274]
+INFO: [Synth 8-638] synthesizing module 'CKKS_xbar_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_xbar_0_stub.vhdl:89]
+INFO: [Synth 8-256] done synthesizing module 'CKKS_axi_interconnect_0_0' (5#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:1534]
+INFO: [Synth 8-638] synthesizing module 'CKKS_axi_interconnect_1_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2495]
+INFO: [Synth 8-638] synthesizing module 'm00_couplers_imp_1XPS17R' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:58]
+INFO: [Synth 8-3491] module 'CKKS_auto_ds_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_auto_ds_0_stub.vhdl:5' bound to instance 'auto_ds' of component 'CKKS_auto_ds_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:181]
+INFO: [Synth 8-638] synthesizing module 'CKKS_auto_ds_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_auto_ds_0_stub.vhdl:51]
+INFO: [Synth 8-256] done synthesizing module 'm00_couplers_imp_1XPS17R' (6#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:58]
+INFO: [Synth 8-638] synthesizing module 'm01_couplers_imp_SDURF5' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:658]
+INFO: [Synth 8-256] done synthesizing module 'm01_couplers_imp_SDURF5' (7#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:658]
+INFO: [Synth 8-638] synthesizing module 's00_couplers_imp_H6BXUA' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:930]
+INFO: [Synth 8-3491] module 'CKKS_auto_us_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_auto_us_0_stub.vhdl:5' bound to instance 'auto_us' of component 'CKKS_auto_us_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:1056]
+INFO: [Synth 8-638] synthesizing module 'CKKS_auto_us_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_auto_us_0_stub.vhdl:51]
+INFO: [Synth 8-256] done synthesizing module 's00_couplers_imp_H6BXUA' (8#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:930]
+INFO: [Synth 8-3491] module 'CKKS_xbar_1' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_xbar_1_stub.vhdl:5' bound to instance 'xbar' of component 'CKKS_xbar_1' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2842]
+INFO: [Synth 8-638] synthesizing module 'CKKS_xbar_1' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_xbar_1_stub.vhdl:51]
+INFO: [Synth 8-256] done synthesizing module 'CKKS_axi_interconnect_1_0' (9#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2495]
+INFO: [Synth 8-3491] module 'CKKS_clk_wiz_0_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_clk_wiz_0_0_stub.vhdl:5' bound to instance 'clk_wiz_0' of component 'CKKS_clk_wiz_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3702]
+INFO: [Synth 8-638] synthesizing module 'CKKS_clk_wiz_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_clk_wiz_0_0_stub.vhdl:16]
+INFO: [Synth 8-3491] module 'CKKS_neorv32_vivado_ip_0_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_neorv32_vivado_ip_0_0_stub.vhdl:5' bound to instance 'neorv32_vivado_ip_0' of component 'CKKS_neorv32_vivado_ip_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3710]
+INFO: [Synth 8-638] synthesizing module 'CKKS_neorv32_vivado_ip_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_neorv32_vivado_ip_0_0_stub.vhdl:41]
+INFO: [Synth 8-3491] module 'CKKS_proc_sys_reset_0_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_proc_sys_reset_0_0_stub.vhdl:5' bound to instance 'proc_sys_reset_0' of component 'CKKS_proc_sys_reset_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3743]
+INFO: [Synth 8-638] synthesizing module 'CKKS_proc_sys_reset_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/.Xil/Vivado-77326-sam-cosic/realtime/CKKS_proc_sys_reset_0_0_stub.vhdl:21]
+INFO: [Synth 8-3491] module 'CKKS_xlconcat_0_0' declared at '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xlconcat_0_0/synth/CKKS_xlconcat_0_0.v:58' bound to instance 'xlconcat_0' of component 'CKKS_xlconcat_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:3756]
+INFO: [Synth 8-6157] synthesizing module 'CKKS_xlconcat_0_0' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xlconcat_0_0/synth/CKKS_xlconcat_0_0.v:58]
+INFO: [Synth 8-6157] synthesizing module 'xlconcat_v2_1_3_xlconcat' [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ipshared/442e/hdl/xlconcat_v2_1_vl_rfs.v:14]
+	Parameter IN0_WIDTH bound to: 8 - type: integer 
+	Parameter IN1_WIDTH bound to: 18 - type: integer 
+	Parameter IN2_WIDTH bound to: 64 - type: integer 
+	Parameter IN3_WIDTH bound to: 1 - type: integer 
+	Parameter IN4_WIDTH bound to: 1 - type: integer 
+	Parameter IN5_WIDTH bound to: 1 - type: integer 
+	Parameter IN6_WIDTH bound to: 1 - type: integer 
+	Parameter IN7_WIDTH bound to: 1 - type: integer 
+	Parameter IN8_WIDTH bound to: 1 - type: integer 
+	Parameter IN9_WIDTH bound to: 1 - type: integer 
+	Parameter IN10_WIDTH bound to: 1 - type: integer 
+	Parameter IN11_WIDTH bound to: 1 - type: integer 
+	Parameter IN12_WIDTH bound to: 1 - type: integer 
+	Parameter IN13_WIDTH bound to: 1 - type: integer 
+	Parameter IN14_WIDTH bound to: 1 - type: integer 
+	Parameter IN15_WIDTH bound to: 1 - type: integer 
+	Parameter IN16_WIDTH bound to: 1 - type: integer 
+	Parameter IN17_WIDTH bound to: 1 - type: integer 
+	Parameter IN18_WIDTH bound to: 1 - type: integer 
+	Parameter IN19_WIDTH bound to: 1 - type: integer 
+	Parameter IN20_WIDTH bound to: 1 - type: integer 
+	Parameter IN21_WIDTH bound to: 1 - type: integer 
+	Parameter IN22_WIDTH bound to: 1 - type: integer 
+	Parameter IN23_WIDTH bound to: 1 - type: integer 
+	Parameter IN24_WIDTH bound to: 1 - type: integer 
+	Parameter IN25_WIDTH bound to: 1 - type: integer 
+	Parameter IN26_WIDTH bound to: 1 - type: integer 
+	Parameter IN27_WIDTH bound to: 1 - type: integer 
+	Parameter IN28_WIDTH bound to: 1 - type: integer 
+	Parameter IN29_WIDTH bound to: 1 - type: integer 
+	Parameter IN30_WIDTH bound to: 1 - type: integer 
+	Parameter IN31_WIDTH bound to: 1 - type: integer 
+	Parameter dout_width bound to: 91 - type: integer 
+	Parameter NUM_PORTS bound to: 4 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'xlconcat_v2_1_3_xlconcat' (10#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ipshared/442e/hdl/xlconcat_v2_1_vl_rfs.v:14]
+INFO: [Synth 8-6155] done synthesizing module 'CKKS_xlconcat_0_0' (11#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xlconcat_0_0/synth/CKKS_xlconcat_0_0.v:58]
+INFO: [Synth 8-256] done synthesizing module 'CKKS' (12#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/synth/CKKS.vhd:2923]
+INFO: [Synth 8-256] done synthesizing module 'CKKS_wrapper' (13#1) [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/hdl/CKKS_wrapper.vhd:24]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In4[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In5[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In6[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In7[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In8[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In9[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In10[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In11[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In12[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In13[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In14[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In15[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In16[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In17[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In18[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In19[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In20[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In21[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In22[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In23[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In24[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In25[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In26[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In27[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In28[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In29[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In30[0]
+WARNING: [Synth 8-3331] design xlconcat_v2_1_3_xlconcat has unconnected port In31[0]
+WARNING: [Synth 8-3331] design s00_couplers_imp_H6BXUA has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design s00_couplers_imp_H6BXUA has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design m01_couplers_imp_SDURF5 has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design m01_couplers_imp_SDURF5 has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design m01_couplers_imp_SDURF5 has unconnected port S_ACLK
+WARNING: [Synth 8-3331] design m01_couplers_imp_SDURF5 has unconnected port S_ARESETN
+WARNING: [Synth 8-3331] design m00_couplers_imp_1XPS17R has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design m00_couplers_imp_1XPS17R has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M01_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M01_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port S00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port S00_ARESETN
+WARNING: [Synth 8-3331] design s01_couplers_imp_M4DVNP has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design s01_couplers_imp_M4DVNP has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design s00_couplers_imp_1MGPU5V has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design s00_couplers_imp_1MGPU5V has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design s00_couplers_imp_1MGPU5V has unconnected port S_ACLK
+WARNING: [Synth 8-3331] design s00_couplers_imp_1MGPU5V has unconnected port S_ARESETN
+WARNING: [Synth 8-3331] design m01_couplers_imp_121OWXC has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design m01_couplers_imp_121OWXC has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design m01_couplers_imp_121OWXC has unconnected port S_ACLK
+WARNING: [Synth 8-3331] design m01_couplers_imp_121OWXC has unconnected port S_ARESETN
+WARNING: [Synth 8-3331] design m00_couplers_imp_5KETHI has unconnected port M_ACLK
+WARNING: [Synth 8-3331] design m00_couplers_imp_5KETHI has unconnected port M_ARESETN
+WARNING: [Synth 8-3331] design m00_couplers_imp_5KETHI has unconnected port S_ACLK
+WARNING: [Synth 8-3331] design m00_couplers_imp_5KETHI has unconnected port S_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M01_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M01_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S01_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S01_ARESETN
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:04 . Memory (MB): peak = 1988.332 ; gain = 215.406 ; free physical = 4474 ; free virtual = 11553
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:03 ; elapsed = 00:00:05 . Memory (MB): peak = 1994.270 ; gain = 221.344 ; free physical = 4479 ; free virtual = 11558
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:03 ; elapsed = 00:00:05 . Memory (MB): peak = 1994.270 ; gain = 221.344 ; free physical = 4479 ; free virtual = 11558
+---------------------------------------------------------------------------------
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_0/CKKS_axi_bram_ctrl_0_0/CKKS_axi_bram_ctrl_0_0_in_context.xdc] for cell 'CKKS_i/axi_bram_ctrl_0'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_0/CKKS_axi_bram_ctrl_0_0/CKKS_axi_bram_ctrl_0_0_in_context.xdc] for cell 'CKKS_i/axi_bram_ctrl_0'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_bram_0/CKKS_axi_bram_ctrl_0_bram_0/CKKS_axi_bram_ctrl_0_bram_0_in_context.xdc] for cell 'CKKS_i/axi_bram_ctrl_0_bram'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_bram_0/CKKS_axi_bram_ctrl_0_bram_0/CKKS_axi_bram_ctrl_0_bram_0_in_context.xdc] for cell 'CKKS_i/axi_bram_ctrl_0_bram'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_bram_ctrl_1_0/CKKS_axi_bram_ctrl_1_0/CKKS_axi_bram_ctrl_1_0_in_context.xdc] for cell 'CKKS_i/axi_bram_ctrl_1'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_bram_ctrl_1_0/CKKS_axi_bram_ctrl_1_0/CKKS_axi_bram_ctrl_1_0_in_context.xdc] for cell 'CKKS_i/axi_bram_ctrl_1'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_cdma_0_0/CKKS_axi_cdma_0_0/CKKS_axi_cdma_0_0_in_context.xdc] for cell 'CKKS_i/axi_cdma_0'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_axi_cdma_0_0/CKKS_axi_cdma_0_0/CKKS_axi_cdma_0_0_in_context.xdc] for cell 'CKKS_i/axi_cdma_0'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xbar_0/CKKS_xbar_0/CKKS_xbar_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_0/xbar'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xbar_0/CKKS_xbar_0/CKKS_xbar_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_0/xbar'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xbar_1/CKKS_xbar_1/CKKS_xbar_1_in_context.xdc] for cell 'CKKS_i/axi_interconnect_1/xbar'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_xbar_1/CKKS_xbar_1/CKKS_xbar_1_in_context.xdc] for cell 'CKKS_i/axi_interconnect_1/xbar'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_in_context.xdc] for cell 'CKKS_i/clk_wiz_0'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_in_context.xdc] for cell 'CKKS_i/clk_wiz_0'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/CKKS_neorv32_vivado_ip_0_0/CKKS_neorv32_vivado_ip_0_0_in_context.xdc] for cell 'CKKS_i/neorv32_vivado_ip_0'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/CKKS_neorv32_vivado_ip_0_0/CKKS_neorv32_vivado_ip_0_0_in_context.xdc] for cell 'CKKS_i/neorv32_vivado_ip_0'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_proc_sys_reset_0_0/CKKS_proc_sys_reset_0_0/CKKS_proc_sys_reset_0_0_in_context.xdc] for cell 'CKKS_i/proc_sys_reset_0'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_proc_sys_reset_0_0/CKKS_proc_sys_reset_0_0/CKKS_proc_sys_reset_0_0_in_context.xdc] for cell 'CKKS_i/proc_sys_reset_0'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_auto_pc_0/CKKS_auto_pc_0/CKKS_auto_pc_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_0/s01_couplers/auto_pc'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_auto_pc_0/CKKS_auto_pc_0/CKKS_auto_pc_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_0/s01_couplers/auto_pc'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_auto_us_0/CKKS_auto_us_0/CKKS_auto_us_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_1/s00_couplers/auto_us'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_auto_us_0/CKKS_auto_us_0/CKKS_auto_us_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_1/s00_couplers/auto_us'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_auto_ds_0/CKKS_auto_ds_0/CKKS_auto_ds_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_1/m00_couplers/auto_ds'
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_auto_ds_0/CKKS_auto_ds_0/CKKS_auto_ds_0_in_context.xdc] for cell 'CKKS_i/axi_interconnect_1/m00_couplers/auto_ds'
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/constrs_1/imports/digilent-xdc/Genesys-2-Master.xdc]
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/constrs_1/imports/digilent-xdc/Genesys-2-Master.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/constrs_1/imports/digilent-xdc/Genesys-2-Master.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/CKKS_wrapper_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/CKKS_wrapper_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/dont_touch.xdc]
+Finished Parsing XDC File [/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/dont_touch.xdc]
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2117.848 ; gain = 0.000 ; free physical = 4381 ; free virtual = 11461
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.01 . Memory (MB): peak = 2117.848 ; gain = 0.000 ; free physical = 4381 ; free virtual = 11461
+WARNING: [Timing 38-316] Clock period '20.000' specified during out-of-context synthesis of instance 'CKKS_i/axi_bram_ctrl_0_bram' at clock pin 'clka' is different from the actual clock period '7.143', this can lead to different synthesis results.
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4450 ; free virtual = 11530
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7k325tffg900-2
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4450 ; free virtual = 11530
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+Applied set_property IO_BUFFER_TYPE = NONE for sys_diff_clock_clk_n. (constraint file  /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_in_context.xdc, line 3).
+Applied set_property CLOCK_BUFFER_TYPE = NONE for sys_diff_clock_clk_n. (constraint file  /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_in_context.xdc, line 4).
+Applied set_property IO_BUFFER_TYPE = NONE for sys_diff_clock_clk_p. (constraint file  /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_in_context.xdc, line 5).
+Applied set_property CLOCK_BUFFER_TYPE = NONE for sys_diff_clock_clk_p. (constraint file  /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_in_context.xdc, line 6).
+Applied set_property DONT_TOUCH = true for CKKS_i. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_bram_ctrl_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_bram_ctrl_0_bram. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_bram_ctrl_1. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_cdma_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_0/xbar. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_1/xbar. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_1. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/clk_wiz_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/neorv32_vivado_ip_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/proc_sys_reset_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/xlconcat_0. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_0/s01_couplers/auto_pc. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_1/s00_couplers/auto_us. (constraint file  auto generated constraint, line ).
+Applied set_property DONT_TOUCH = true for CKKS_i/axi_interconnect_1/m00_couplers/auto_ds. (constraint file  auto generated constraint, line ).
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4452 ; free virtual = 11532
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4452 ; free virtual = 11533
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+Hierarchical RTL Component report 
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 840 (col length:140)
+BRAMs: 890 (col length: RAMB18 140 RAMB36 70)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+Warning: Parallel synthesis criteria is not met 
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M01_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port M01_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port S00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_1_0 has unconnected port S00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M01_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port M01_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S00_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S00_ARESETN
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S01_ACLK
+WARNING: [Synth 8-3331] design CKKS_axi_interconnect_0_0 has unconnected port S01_ARESETN
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:08 ; elapsed = 00:00:11 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4452 ; free virtual = 11536
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5578] Moved timing constraint from pin 'CKKS_i/axi_bram_ctrl_0/bram_clk_a' to pin 'CKKS_i/axi_bram_ctrl_0/bbstub_bram_clk_a/O'
+INFO: [Synth 8-5578] Moved timing constraint from pin 'CKKS_i/axi_bram_ctrl_1/bram_clk_a' to pin 'CKKS_i/axi_bram_ctrl_1/bbstub_bram_clk_a/O'
+INFO: [Synth 8-5578] Moved timing constraint from pin 'CKKS_i/clk_wiz_0/clk_out1' to pin 'CKKS_i/clk_wiz_0/bbstub_clk_out1/O'
+INFO: [Synth 8-5819] Moved 3 constraints on hierarchical pins to their respective driving/loading pins
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:13 ; elapsed = 00:00:15 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4344 ; free virtual = 11427
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:13 ; elapsed = 00:00:15 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4344 ; free virtual = 11427
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:13 ; elapsed = 00:00:15 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4334 ; free virtual = 11417
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++------+----------------------------+----------+
+|      |BlackBox name               |Instances |
++------+----------------------------+----------+
+|1     |CKKS_xbar_0                 |         1|
+|2     |CKKS_auto_pc_0              |         1|
+|3     |CKKS_xbar_1                 |         1|
+|4     |CKKS_auto_ds_0              |         1|
+|5     |CKKS_auto_us_0              |         1|
+|6     |CKKS_axi_bram_ctrl_0_0      |         1|
+|7     |CKKS_axi_bram_ctrl_0_bram_0 |         1|
+|8     |CKKS_axi_bram_ctrl_1_0      |         1|
+|9     |CKKS_axi_cdma_0_0           |         1|
+|10    |CKKS_clk_wiz_0_0            |         1|
+|11    |CKKS_neorv32_vivado_ip_0_0  |         1|
+|12    |CKKS_proc_sys_reset_0_0     |         1|
++------+----------------------------+----------+
+
+Report Cell Usage: 
++------+-----------------------------------+------+
+|      |Cell                               |Count |
++------+-----------------------------------+------+
+|1     |CKKS_auto_ds_0_bbox_6              |     1|
+|2     |CKKS_auto_pc_0_bbox_4              |     1|
+|3     |CKKS_auto_us_0_bbox_7              |     1|
+|4     |CKKS_axi_bram_ctrl_0_0_bbox_0      |     1|
+|5     |CKKS_axi_bram_ctrl_0_bram_0_bbox_1 |     1|
+|6     |CKKS_axi_bram_ctrl_1_0_bbox_2      |     1|
+|7     |CKKS_axi_cdma_0_0_bbox_3           |     1|
+|8     |CKKS_clk_wiz_0_0_bbox_9            |     1|
+|9     |CKKS_neorv32_vivado_ip_0_0_bbox_10 |     1|
+|10    |CKKS_proc_sys_reset_0_0_bbox_11    |     1|
+|11    |CKKS_xbar_0_bbox_5                 |     1|
+|12    |CKKS_xbar_1_bbox_8                 |     1|
+|13    |IBUF                               |     2|
+|14    |OBUF                               |     1|
++------+-----------------------------------+------+
+
+Report Instance Areas: 
++------+-----------------------+--------------------------+------+
+|      |Instance               |Module                    |Cells |
++------+-----------------------+--------------------------+------+
+|1     |top                    |                          |  2480|
+|2     |  CKKS_i               |CKKS                      |  2477|
+|3     |    axi_interconnect_0 |CKKS_axi_interconnect_0_0 |   829|
+|4     |      s01_couplers     |s01_couplers_imp_M4DVNP   |   273|
+|5     |    axi_interconnect_1 |CKKS_axi_interconnect_1_0 |   739|
+|6     |      m00_couplers     |m00_couplers_imp_1XPS17R  |   184|
+|7     |      s00_couplers     |s00_couplers_imp_H6BXUA   |   188|
+|8     |    xlconcat_0         |CKKS_xlconcat_0_0         |     0|
++------+-----------------------+--------------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.816 ; gain = 348.891 ; free physical = 4335 ; free virtual = 11410
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 14 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:12 ; elapsed = 00:00:14 . Memory (MB): peak = 2121.816 ; gain = 221.344 ; free physical = 4384 ; free virtual = 11459
+Synthesis Optimization Complete : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 2121.824 ; gain = 348.891 ; free physical = 4384 ; free virtual = 11459
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2121.824 ; gain = 0.000 ; free physical = 4341 ; free virtual = 11417
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+69 Infos, 80 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:19 ; elapsed = 00:00:22 . Memory (MB): peak = 2121.824 ; gain = 624.738 ; free physical = 4420 ; free virtual = 11493
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2121.824 ; gain = 0.000 ; free physical = 4420 ; free virtual = 11493
+WARNING: [Constraints 18-5210] No constraints selected for write.
+Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
+INFO: [Common 17-1381] The checkpoint '/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/CKKS_wrapper.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file CKKS_wrapper_utilization_synth.rpt -pb CKKS_wrapper_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Sun Sep  8 15:21:41 2024...

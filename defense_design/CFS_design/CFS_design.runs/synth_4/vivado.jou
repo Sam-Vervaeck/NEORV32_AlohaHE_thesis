@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Sep  8 15:21:08 2024
+# Process ID: 77326
+# Current directory: /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4
+# Command line: vivado -log CKKS_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CKKS_wrapper.tcl
+# Log file: /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/CKKS_wrapper.vds
+# Journal file: /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_4/vivado.jou
+#-----------------------------------------------------------
+source CKKS_wrapper.tcl -notrace

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="CKKS_neorv32_vivado_ip_0_0_synth_1" LaunchDir="/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/CKKS_neorv32_vivado_ip_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_3" LaunchDir="/home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.runs/synth_3" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="CKKS_neorv32_vivado_ip_0_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

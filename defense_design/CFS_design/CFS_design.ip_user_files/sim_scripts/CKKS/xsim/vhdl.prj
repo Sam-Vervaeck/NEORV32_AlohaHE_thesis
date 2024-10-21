@@ -1,0 +1,65 @@
+vhdl xil_defaultlib  \
+"../../../bd/CKKS/ip/CKKS_axi_bram_ctrl_0_0/sim/CKKS_axi_bram_ctrl_0_0.vhd" \
+"../../../bd/CKKS/ip/CKKS_axi_bram_ctrl_1_0/sim/CKKS_axi_bram_ctrl_1_0.vhd" \
+"../../../bd/CKKS/ip/CKKS_axi_cdma_0_0/sim/CKKS_axi_cdma_0_0.vhd" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/MontRed_DSP_Mult/sim/MontRed_DSP_Mult.vhd" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/MontRed_DSP_MultAdd/sim/MontRed_DSP_MultAdd.vhd" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B_doublebuffer/sim/DSP_A_x_B_doublebuffer.vhd" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B_p_C/sim/DSP_A_x_B_p_C.vhd" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B/sim/DSP_A_x_B.vhd" \
+
+vhdl neorv32  \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_package.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_application_image.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_boot_rom.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_bootloader_image.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_intercon.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cache.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cfs.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_clockgate.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_fifo.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_decompressor.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_control.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_regfile.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_shifter.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_muldiv.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_bitmanip.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_fpu.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_cfu.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_cond.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_alu.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_lsu.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_pmp.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_crc.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_debug_dm.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_debug_dtm.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_dma.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_dmem.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_gpio.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_gptmr.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_imem.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_mtime.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_neoled.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_onewire.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_pwm.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_sdi.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_slink.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_spi.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_sysinfo.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xip.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xbus.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_wdt.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_uart.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_twi.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_trng.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xirq.vhd" \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32/neorv32_top.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/CKKS/ipshared/ca68/src/neorv32_vivado_ip.vhd" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/sim/CKKS_neorv32_vivado_ip_0_0.vhd" \
+"../../../bd/CKKS/ip/CKKS_proc_sys_reset_0_0/sim/CKKS_proc_sys_reset_0_0.vhd" \
+"../../../bd/CKKS/sim/CKKS.vhd" \
+
+nosort

@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_CKKS_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi_bram_ctrl_funcs" />
+            <top_module name="axi_cdma_pkg" />
+            <top_module name="glbl" />
+            <top_module name="lib_pkg" />
+            <top_module name="neorv32_application_image" />
+            <top_module name="neorv32_package" />
+            <top_module name="test_CKKS" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1883651791000fs"></ZoomStartTime>
+      <ZoomEndTime time="1883677831001fs"></ZoomEndTime>
+      <Cursor1Time time="1883658214000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="287"></NameColumnWidth>
+      <ValueColumnWidth column_width="287"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="214" />
+   <wvobject type="logic" fp_name="/test_CKKS/reset">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/sys_diff_clock_clk_n">
+      <obj_property name="ElementShortName">sys_diff_clock_clk_n</obj_property>
+      <obj_property name="ObjectShortName">sys_diff_clock_clk_n</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/sys_diff_clock_clk_p">
+      <obj_property name="ElementShortName">sys_diff_clock_clk_p</obj_property>
+      <obj_property name="ObjectShortName">sys_diff_clock_clk_p</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/uart0_rxd_i_0">
+      <obj_property name="ElementShortName">uart0_rxd_i_0</obj_property>
+      <obj_property name="ObjectShortName">uart0_rxd_i_0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/uart0_txd_o_0">
+      <obj_property name="ElementShortName">uart0_txd_o_0</obj_property>
+      <obj_property name="ObjectShortName">uart0_txd_o_0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/resetn">
+      <obj_property name="ElementShortName">resetn</obj_property>
+      <obj_property name="ObjectShortName">resetn</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/core_req">
+      <obj_property name="ElementShortName">core_req</obj_property>
+      <obj_property name="ObjectShortName">core_req</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/core_rsp">
+      <obj_property name="ElementShortName">core_rsp</obj_property>
+      <obj_property name="ObjectShortName">core_rsp</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_awaddr">
+      <obj_property name="ElementShortName">m_axi_awaddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awaddr[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_awprot">
+      <obj_property name="ElementShortName">m_axi_awprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_awvalid">
+      <obj_property name="ElementShortName">m_axi_awvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_awready">
+      <obj_property name="ElementShortName">m_axi_awready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_wdata">
+      <obj_property name="ElementShortName">m_axi_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wdata[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_wstrb">
+      <obj_property name="ElementShortName">m_axi_wstrb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wstrb[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_wvalid">
+      <obj_property name="ElementShortName">m_axi_wvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_wready">
+      <obj_property name="ElementShortName">m_axi_wready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_araddr">
+      <obj_property name="ElementShortName">m_axi_araddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_araddr[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_arprot">
+      <obj_property name="ElementShortName">m_axi_arprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_arvalid">
+      <obj_property name="ElementShortName">m_axi_arvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arvalid</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_arready">
+      <obj_property name="ElementShortName">m_axi_arready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_rdata">
+      <obj_property name="ElementShortName">m_axi_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rdata[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_rresp">
+      <obj_property name="ElementShortName">m_axi_rresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rresp[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_rvalid">
+      <obj_property name="ElementShortName">m_axi_rvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rvalid</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_rready">
+      <obj_property name="ElementShortName">m_axi_rready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_bresp">
+      <obj_property name="ElementShortName">m_axi_bresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_bresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_bvalid">
+      <obj_property name="ElementShortName">m_axi_bvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_bvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi_bready">
+      <obj_property name="ElementShortName">m_axi_bready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_bready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/uart0_txd_o">
+      <obj_property name="ElementShortName">uart0_txd_o</obj_property>
+      <obj_property name="ObjectShortName">uart0_txd_o</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/uart0_rxd_i">
+      <obj_property name="ElementShortName">uart0_rxd_i</obj_property>
+      <obj_property name="ObjectShortName">uart0_rxd_i</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/uart0_rts_o">
+      <obj_property name="ElementShortName">uart0_rts_o</obj_property>
+      <obj_property name="ObjectShortName">uart0_rts_o</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/uart0_cts_i">
+      <obj_property name="ElementShortName">uart0_cts_i</obj_property>
+      <obj_property name="ObjectShortName">uart0_cts_i</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/cfs_in_i">
+      <obj_property name="ElementShortName">cfs_in_i[90:0]</obj_property>
+      <obj_property name="ObjectShortName">cfs_in_i[90:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/cfs_out_o">
+      <obj_property name="ElementShortName">cfs_out_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">cfs_out_o[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/mtime_time_o">
+      <obj_property name="ElementShortName">mtime_time_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">mtime_time_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/msw_irq_i">
+      <obj_property name="ElementShortName">msw_irq_i</obj_property>
+      <obj_property name="ObjectShortName">msw_irq_i</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/mext_irq_i">
+      <obj_property name="ElementShortName">mext_irq_i</obj_property>
+      <obj_property name="ObjectShortName">mext_irq_i</obj_property>
+   </wvobject>
+   <wvobject type="protoinst" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/m_axi">
+      <obj_property name="ElementShortName">m_axi</obj_property>
+      <obj_property name="ObjectShortName">m_axi</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/control_low_word">
+      <obj_property name="ElementShortName">control_low_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">control_low_word[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/control_low_word">
+      <obj_property name="ElementShortName">control_low_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">control_low_word[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/control_high_word">
+      <obj_property name="ElementShortName">control_high_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">control_high_word[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/control_high_word">
+      <obj_property name="ElementShortName">control_high_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">control_high_word[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dina_ext_low_word">
+      <obj_property name="ElementShortName">dina_ext_low_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dina_ext_low_word[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dina_ext_low_word">
+      <obj_property name="ElementShortName">dina_ext_low_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dina_ext_low_word[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dina_ext_high_word">
+      <obj_property name="ElementShortName">dina_ext_high_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dina_ext_high_word[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dina_ext_high_word">
+      <obj_property name="ElementShortName">dina_ext_high_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dina_ext_high_word[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dout_ext_low_word">
+      <obj_property name="ElementShortName">dout_ext_low_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_ext_low_word[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dout_ext_high_word">
+      <obj_property name="ElementShortName">dout_ext_high_word[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_ext_high_word[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/status">
+      <obj_property name="ElementShortName">status[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dma_bram_byte_wea">
+      <obj_property name="ElementShortName">dma_bram_byte_wea[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dma_bram_byte_wea[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dma_bram_abs_addr">
+      <obj_property name="ElementShortName">dma_bram_abs_addr[17:0]</obj_property>
+      <obj_property name="ObjectShortName">dma_bram_abs_addr[17:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dma_bram_dina">
+      <obj_property name="ElementShortName">dma_bram_dina[63:0]</obj_property>
+      <obj_property name="ObjectShortName">dma_bram_dina[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dma_bram_doutb">
+      <obj_property name="ElementShortName">dma_bram_doutb[63:0]</obj_property>
+      <obj_property name="ObjectShortName">dma_bram_doutb[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dma_bram_en">
+      <obj_property name="ElementShortName">dma_bram_en</obj_property>
+      <obj_property name="ObjectShortName">dma_bram_en</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dina_ext">
+      <obj_property name="ElementShortName">dina_ext[63:0]</obj_property>
+      <obj_property name="ObjectShortName">dina_ext[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/dout_ext">
+      <obj_property name="ElementShortName">dout_ext[63:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_ext[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/rst_core">
+      <obj_property name="ElementShortName">rst_core</obj_property>
+      <obj_property name="ObjectShortName">rst_core</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/address_ext">
+      <obj_property name="ElementShortName">address_ext[13:0]</obj_property>
+      <obj_property name="ObjectShortName">address_ext[13:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/bram_sel">
+      <obj_property name="ElementShortName">bram_sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/wea_ext">
+      <obj_property name="ElementShortName">wea_ext</obj_property>
+      <obj_property name="ObjectShortName">wea_ext</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/grant_ext">
+      <obj_property name="ElementShortName">grant_ext</obj_property>
+      <obj_property name="ObjectShortName">grant_ext</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/wea_ext_core">
+      <obj_property name="ElementShortName">wea_ext_core</obj_property>
+      <obj_property name="ObjectShortName">wea_ext_core</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/wea_ext_ISA">
+      <obj_property name="ElementShortName">wea_ext_ISA</obj_property>
+      <obj_property name="ObjectShortName">wea_ext_ISA</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/command_in">
+      <obj_property name="ElementShortName">command_in[39:0]</obj_property>
+      <obj_property name="ObjectShortName">command_in[39:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/command_we">
+      <obj_property name="ElementShortName">command_we</obj_property>
+      <obj_property name="ObjectShortName">command_we</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/rst_ISA">
+      <obj_property name="ElementShortName">rst_ISA</obj_property>
+      <obj_property name="ObjectShortName">rst_ISA</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/start_ISA">
+      <obj_property name="ElementShortName">start_ISA</obj_property>
+      <obj_property name="ObjectShortName">start_ISA</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/done_ins_computation">
+      <obj_property name="ElementShortName">done_ins_computation</obj_property>
+      <obj_property name="ObjectShortName">done_ins_computation</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/done_all_computation">
+      <obj_property name="ElementShortName">done_all_computation</obj_property>
+      <obj_property name="ObjectShortName">done_all_computation</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/status_wire">
+      <obj_property name="ElementShortName">status_wire[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_wire[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system/neorv32_cfs_inst_true/neorv32_cfs_inst/ComputeCoreWrapper_inst/cycle_count">
+      <obj_property name="ElementShortName">cycle_count[30:0]</obj_property>
+      <obj_property name="ObjectShortName">cycle_count[30:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_aclk">
+      <obj_property name="ElementShortName">m_axi_aclk</obj_property>
+      <obj_property name="ObjectShortName">m_axi_aclk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_aclk">
+      <obj_property name="ElementShortName">s_axi_lite_aclk</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_aclk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_aresetn">
+      <obj_property name="ElementShortName">s_axi_lite_aresetn</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_aresetn</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/cdma_introut">
+      <obj_property name="ElementShortName">cdma_introut</obj_property>
+      <obj_property name="ObjectShortName">cdma_introut</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_awready">
+      <obj_property name="ElementShortName">s_axi_lite_awready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_awready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_awvalid">
+      <obj_property name="ElementShortName">s_axi_lite_awvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_awvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_awaddr">
+      <obj_property name="ElementShortName">s_axi_lite_awaddr[5:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_awaddr[5:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_wready">
+      <obj_property name="ElementShortName">s_axi_lite_wready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_wready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_wvalid">
+      <obj_property name="ElementShortName">s_axi_lite_wvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_wvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_wdata">
+      <obj_property name="ElementShortName">s_axi_lite_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_wdata[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_bready">
+      <obj_property name="ElementShortName">s_axi_lite_bready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_bready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_bvalid">
+      <obj_property name="ElementShortName">s_axi_lite_bvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_bvalid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_bresp">
+      <obj_property name="ElementShortName">s_axi_lite_bresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_bresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_arready">
+      <obj_property name="ElementShortName">s_axi_lite_arready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_arready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_arvalid">
+      <obj_property name="ElementShortName">s_axi_lite_arvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_arvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_araddr">
+      <obj_property name="ElementShortName">s_axi_lite_araddr[5:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_araddr[5:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_rready">
+      <obj_property name="ElementShortName">s_axi_lite_rready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_rready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_rvalid">
+      <obj_property name="ElementShortName">s_axi_lite_rvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_rvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_rdata">
+      <obj_property name="ElementShortName">s_axi_lite_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_rdata[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/s_axi_lite_rresp">
+      <obj_property name="ElementShortName">s_axi_lite_rresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_lite_rresp[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awready">
+      <obj_property name="ElementShortName">m_axi_awready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awvalid">
+      <obj_property name="ElementShortName">m_axi_awvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awaddr">
+      <obj_property name="ElementShortName">m_axi_awaddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awaddr[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awlen">
+      <obj_property name="ElementShortName">m_axi_awlen[7:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awlen[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awsize">
+      <obj_property name="ElementShortName">m_axi_awsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awsize[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awburst">
+      <obj_property name="ElementShortName">m_axi_awburst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awburst[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awprot">
+      <obj_property name="ElementShortName">m_axi_awprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_awcache">
+      <obj_property name="ElementShortName">m_axi_awcache[3:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_awcache[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_wready">
+      <obj_property name="ElementShortName">m_axi_wready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_wvalid">
+      <obj_property name="ElementShortName">m_axi_wvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_wdata">
+      <obj_property name="ElementShortName">m_axi_wdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wdata[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_wstrb">
+      <obj_property name="ElementShortName">m_axi_wstrb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wstrb[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_wlast">
+      <obj_property name="ElementShortName">m_axi_wlast</obj_property>
+      <obj_property name="ObjectShortName">m_axi_wlast</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_bready">
+      <obj_property name="ElementShortName">m_axi_bready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_bready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_bvalid">
+      <obj_property name="ElementShortName">m_axi_bvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_bvalid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_bresp">
+      <obj_property name="ElementShortName">m_axi_bresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_bresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arready">
+      <obj_property name="ElementShortName">m_axi_arready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arvalid">
+      <obj_property name="ElementShortName">m_axi_arvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_araddr">
+      <obj_property name="ElementShortName">m_axi_araddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_araddr[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arlen">
+      <obj_property name="ElementShortName">m_axi_arlen[7:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arlen[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arsize">
+      <obj_property name="ElementShortName">m_axi_arsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arsize[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arburst">
+      <obj_property name="ElementShortName">m_axi_arburst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arburst[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arprot">
+      <obj_property name="ElementShortName">m_axi_arprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_arcache">
+      <obj_property name="ElementShortName">m_axi_arcache[3:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_arcache[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_rready">
+      <obj_property name="ElementShortName">m_axi_rready</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_rvalid">
+      <obj_property name="ElementShortName">m_axi_rvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_rdata">
+      <obj_property name="ElementShortName">m_axi_rdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rdata[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_rresp">
+      <obj_property name="ElementShortName">m_axi_rresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rresp[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_cdma_0/m_axi_rlast">
+      <obj_property name="ElementShortName">m_axi_rlast</obj_property>
+      <obj_property name="ObjectShortName">m_axi_rlast</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_cdma_0/cdma_tvect_out">
+      <obj_property name="ElementShortName">cdma_tvect_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cdma_tvect_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="protoinst" fp_name="/test_CKKS/DUT/axi_cdma_0/M_AXI">
+      <obj_property name="ElementShortName">M_AXI</obj_property>
+      <obj_property name="ObjectShortName">M_AXI</obj_property>
+   </wvobject>
+   <wvobject type="protoinst" fp_name="/test_CKKS/DUT/axi_cdma_0/S_AXI_LITE">
+      <obj_property name="ElementShortName">S_AXI_LITE</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_LITE</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_aclk">
+      <obj_property name="ElementShortName">s_axi_aclk</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aclk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_aresetn">
+      <obj_property name="ElementShortName">s_axi_aresetn</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aresetn</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awid">
+      <obj_property name="ElementShortName">s_axi_awid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awid[0:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awaddr">
+      <obj_property name="ElementShortName">s_axi_awaddr[17:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awaddr[17:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awlen">
+      <obj_property name="ElementShortName">s_axi_awlen[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awlen[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awsize">
+      <obj_property name="ElementShortName">s_axi_awsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awsize[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awburst">
+      <obj_property name="ElementShortName">s_axi_awburst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awburst[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awlock">
+      <obj_property name="ElementShortName">s_axi_awlock</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awlock</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awcache">
+      <obj_property name="ElementShortName">s_axi_awcache[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awcache[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awprot">
+      <obj_property name="ElementShortName">s_axi_awprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awvalid">
+      <obj_property name="ElementShortName">s_axi_awvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_awready">
+      <obj_property name="ElementShortName">s_axi_awready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_wdata">
+      <obj_property name="ElementShortName">s_axi_wdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wdata[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_wstrb">
+      <obj_property name="ElementShortName">s_axi_wstrb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wstrb[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_wlast">
+      <obj_property name="ElementShortName">s_axi_wlast</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wlast</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_wvalid">
+      <obj_property name="ElementShortName">s_axi_wvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_wready">
+      <obj_property name="ElementShortName">s_axi_wready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_bid">
+      <obj_property name="ElementShortName">s_axi_bid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bid[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_bresp">
+      <obj_property name="ElementShortName">s_axi_bresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_bvalid">
+      <obj_property name="ElementShortName">s_axi_bvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_bready">
+      <obj_property name="ElementShortName">s_axi_bready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bready</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arid">
+      <obj_property name="ElementShortName">s_axi_arid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arid[0:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_araddr">
+      <obj_property name="ElementShortName">s_axi_araddr[17:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_araddr[17:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arlen">
+      <obj_property name="ElementShortName">s_axi_arlen[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arlen[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arsize">
+      <obj_property name="ElementShortName">s_axi_arsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arsize[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arburst">
+      <obj_property name="ElementShortName">s_axi_arburst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arburst[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arlock">
+      <obj_property name="ElementShortName">s_axi_arlock</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arlock</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arcache">
+      <obj_property name="ElementShortName">s_axi_arcache[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arcache[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arprot">
+      <obj_property name="ElementShortName">s_axi_arprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arvalid">
+      <obj_property name="ElementShortName">s_axi_arvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_arready">
+      <obj_property name="ElementShortName">s_axi_arready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_rid">
+      <obj_property name="ElementShortName">s_axi_rid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rid[0:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_rdata">
+      <obj_property name="ElementShortName">s_axi_rdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rdata[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_rresp">
+      <obj_property name="ElementShortName">s_axi_rresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rresp[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_rlast">
+      <obj_property name="ElementShortName">s_axi_rlast</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rlast</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_rvalid">
+      <obj_property name="ElementShortName">s_axi_rvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rvalid</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/s_axi_rready">
+      <obj_property name="ElementShortName">s_axi_rready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_rst_a">
+      <obj_property name="ElementShortName">bram_rst_a</obj_property>
+      <obj_property name="ObjectShortName">bram_rst_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_clk_a">
+      <obj_property name="ElementShortName">bram_clk_a</obj_property>
+      <obj_property name="ObjectShortName">bram_clk_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_en_a">
+      <obj_property name="ElementShortName">bram_en_a</obj_property>
+      <obj_property name="ObjectShortName">bram_en_a</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_we_a">
+      <obj_property name="ElementShortName">bram_we_a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_we_a[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_addr_a">
+      <obj_property name="ElementShortName">bram_addr_a[17:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_addr_a[17:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_wrdata_a">
+      <obj_property name="ElementShortName">bram_wrdata_a[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_wrdata_a[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/bram_rddata_a">
+      <obj_property name="ElementShortName">bram_rddata_a[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_rddata_a[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="protoinst" fp_name="/test_CKKS/DUT/axi_bram_ctrl_1/S_AXI">
+      <obj_property name="ElementShortName">S_AXI</obj_property>
+      <obj_property name="ObjectShortName">S_AXI</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_aclk">
+      <obj_property name="ElementShortName">s_axi_aclk</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aclk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_aresetn">
+      <obj_property name="ElementShortName">s_axi_aresetn</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aresetn</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awid">
+      <obj_property name="ElementShortName">s_axi_awid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awid[0:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awaddr">
+      <obj_property name="ElementShortName">s_axi_awaddr[19:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awaddr[19:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awlen">
+      <obj_property name="ElementShortName">s_axi_awlen[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awlen[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awsize">
+      <obj_property name="ElementShortName">s_axi_awsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awsize[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awburst">
+      <obj_property name="ElementShortName">s_axi_awburst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awburst[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awlock">
+      <obj_property name="ElementShortName">s_axi_awlock</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awlock</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awcache">
+      <obj_property name="ElementShortName">s_axi_awcache[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awcache[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awprot">
+      <obj_property name="ElementShortName">s_axi_awprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awvalid">
+      <obj_property name="ElementShortName">s_axi_awvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awvalid</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_awready">
+      <obj_property name="ElementShortName">s_axi_awready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_awready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_wdata">
+      <obj_property name="ElementShortName">s_axi_wdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wdata[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_wstrb">
+      <obj_property name="ElementShortName">s_axi_wstrb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wstrb[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_wlast">
+      <obj_property name="ElementShortName">s_axi_wlast</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wlast</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_wvalid">
+      <obj_property name="ElementShortName">s_axi_wvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wvalid</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_wready">
+      <obj_property name="ElementShortName">s_axi_wready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wready</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_bid">
+      <obj_property name="ElementShortName">s_axi_bid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bid[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_bresp">
+      <obj_property name="ElementShortName">s_axi_bresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_bvalid">
+      <obj_property name="ElementShortName">s_axi_bvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_bready">
+      <obj_property name="ElementShortName">s_axi_bready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_bready</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arid">
+      <obj_property name="ElementShortName">s_axi_arid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arid[0:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_araddr">
+      <obj_property name="ElementShortName">s_axi_araddr[19:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_araddr[19:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arlen">
+      <obj_property name="ElementShortName">s_axi_arlen[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arlen[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arsize">
+      <obj_property name="ElementShortName">s_axi_arsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arsize[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arburst">
+      <obj_property name="ElementShortName">s_axi_arburst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arburst[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arlock">
+      <obj_property name="ElementShortName">s_axi_arlock</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arlock</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arcache">
+      <obj_property name="ElementShortName">s_axi_arcache[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arcache[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arprot">
+      <obj_property name="ElementShortName">s_axi_arprot[2:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arprot[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arvalid">
+      <obj_property name="ElementShortName">s_axi_arvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_arready">
+      <obj_property name="ElementShortName">s_axi_arready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_arready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_rid">
+      <obj_property name="ElementShortName">s_axi_rid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rid[0:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_rdata">
+      <obj_property name="ElementShortName">s_axi_rdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rdata[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_rresp">
+      <obj_property name="ElementShortName">s_axi_rresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rresp[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_rlast">
+      <obj_property name="ElementShortName">s_axi_rlast</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rlast</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_rvalid">
+      <obj_property name="ElementShortName">s_axi_rvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rvalid</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/s_axi_rready">
+      <obj_property name="ElementShortName">s_axi_rready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_rready</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_rst_a">
+      <obj_property name="ElementShortName">bram_rst_a</obj_property>
+      <obj_property name="ObjectShortName">bram_rst_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_clk_a">
+      <obj_property name="ElementShortName">bram_clk_a</obj_property>
+      <obj_property name="ObjectShortName">bram_clk_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_en_a">
+      <obj_property name="ElementShortName">bram_en_a</obj_property>
+      <obj_property name="ObjectShortName">bram_en_a</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_we_a">
+      <obj_property name="ElementShortName">bram_we_a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_we_a[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_addr_a">
+      <obj_property name="ElementShortName">bram_addr_a[19:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_addr_a[19:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_wrdata_a">
+      <obj_property name="ElementShortName">bram_wrdata_a[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_wrdata_a[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/bram_rddata_a">
+      <obj_property name="ElementShortName">bram_rddata_a[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bram_rddata_a[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="protoinst" fp_name="/test_CKKS/DUT/axi_bram_ctrl_0/S_AXI">
+      <obj_property name="ElementShortName">S_AXI</obj_property>
+      <obj_property name="ObjectShortName">S_AXI</obj_property>
+   </wvobject>
+</wave_config>

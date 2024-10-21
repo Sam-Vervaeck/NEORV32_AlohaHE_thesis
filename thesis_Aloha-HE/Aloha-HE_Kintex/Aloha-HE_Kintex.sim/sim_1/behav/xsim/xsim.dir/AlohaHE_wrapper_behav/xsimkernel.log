@@ -1,0 +1,7 @@
+Running: xsim.dir/AlohaHE_wrapper_behav/xsimk -simmode gui -wdb AlohaHE_wrapper_behav.wdb -simrunnum 0 -socket 45689
+Design successfully loaded
+Design Loading Memory Usage: 176388 KB (Peak: 176388 KB)
+Design Loading CPU Usage: 460 ms
+Simulation completed
+Simulation Memory Usage: 267488 KB (Peak: 315656 KB)
+Simulation CPU Usage: 670 ms

@@ -1,0 +1,5623 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 20 15:46:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Oct 14 19:28:03 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Oct 14 19:28:02 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Oct 14 19:28:01 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Oct 14 19:27:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Oct 14 19:27:57 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 23:13:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 23:13:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 23:13:13 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 23:13:12 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 23:13:10 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 21:31:10 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 21:31:08 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 21:31:07 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 21:31:05 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Oct 13 21:31:02 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:16:18 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:16:17 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:16:16 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:16:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:16:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:11:16 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:11:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:11:13 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:11:12 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 12:11:09 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Sep  6 00:02:34 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Sep  6 00:02:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Sep  6 00:02:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Sep  6 00:02:30 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Sep  6 00:02:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:18:39 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:18:39 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:18:38 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:18:37 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:18:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:09:30 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:09:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:09:28 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:09:27 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:09:27 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:52 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:51 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:51 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:50 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:49 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:34 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 23:01:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:28:43 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:28:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:28:41 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:28:39 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:28:37 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:20:49 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:20:47 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:20:47 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:20:46 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:20:45 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:15:19 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:15:17 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:15:16 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:15:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 17:15:12 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 16:35:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 16:35:56 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 16:35:55 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 16:35:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 16:35:52 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 11:42:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 11:42:30 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 11:42:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 11:42:28 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Sep  5 11:42:27 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Wed Sep  4 11:20:53 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Wed Sep  4 11:20:51 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Wed Sep  4 11:20:49 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Wed Sep  4 11:20:47 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Wed Sep  4 11:20:44 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:44:17 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:44:16 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:44:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:44:13 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:44:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:21:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:21:41 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:21:41 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:21:40 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:21:39 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:01:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:01:13 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:01:12 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:01:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 22:01:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:49:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:49:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:49:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:49:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:49:30 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:39:37 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:39:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:39:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:39:34 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 21:39:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:56:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:56:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:56:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:56:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:56:27 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:22:05 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:22:03 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:22:02 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:22:01 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:21:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:21:38 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CKKS_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CKKS_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:21:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:21:34 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:21:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 19:21:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:18:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:18:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:18:30 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:18:28 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:14:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:14:28 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:14:27 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:14:25 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:02:16 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:02:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:02:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 17:02:13 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:56:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:56:30 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:56:29 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:56:28 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:49:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:49:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:49:57 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:49:55 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:38:45 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:38:44 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:38:43 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Sep  3 16:38:41 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 22:20:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 22:20:12 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 22:20:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 22:20:09 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 16:01:12 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 16:01:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 16:01:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 16:01:10 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:53:38 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:53:37 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:53:37 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:53:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:17:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 2) to (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:17:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 2) to (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:17:53 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 2) to (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 15:17:52 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 2) to (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 14:51:01 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 14:50:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 14:50:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Mon Sep  2 14:50:56 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:51:10 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:51:09 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:51:08 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:51:07 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:37:45 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:37:44 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:37:43 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:37:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:18:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:18:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:18:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:18:56 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:03:57 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:03:56 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:03:55 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 17:03:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 14:04:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 14:04:35 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 14:04:34 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 14:04:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 13:17:01 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 13:17:00 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 13:17:00 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 13:16:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 11:07:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 11:07:53 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 11:07:52 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sat Aug 31 11:07:51 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_Aloha_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 23:21:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 23:21:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 23:21:31 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 22:51:49 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 22:51:47 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 22:51:46 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:51:24 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:51:23 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:51:22 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:24:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:24:11 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:24:09 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:20:20 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:20:18 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 20:20:17 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 15:26:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 15:26:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 15:26:57 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 15:00:55 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 15:00:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 15:00:53 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 14:56:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 14:56:41 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 14:56:40 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 14:53:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 14:53:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Fri Aug 30 14:53:56 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:38:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:38:14 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:38:13 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:35:35 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:35:33 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:35:32 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:21:57 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:21:54 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:21:53 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:14:17 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:14:16 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 23:14:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 22:25:48 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 22:25:47 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 22:25:46 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 21:43:06 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 21:43:06 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 21:43:05 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 21:35:20 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 21:35:20 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 21:35:19 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 18:54:38 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 18:54:37 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 18:54:36 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:51:58 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:51:57 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:51:56 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:46:10 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:46:09 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:46:07 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:31:02 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:31:01 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 17:30:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 16:33:02 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 16:33:01 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 16:32:59 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 16:26:45 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 16:26:44 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Thu Aug 29 16:26:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_CDMA_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:54:40 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:54:39 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_XBUS_test_neorv32_vivado_ip_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_XBUS_test_neorv32_vivado_ip_0_1 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:14:19 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:11:06 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:08:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:02:40 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 21:00:44 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 20:40:08 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Tue Aug 27 20:33:23 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'CFS_test_neorv32_vivado_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of CFS_test_neorv32_vivado_ip_0_0 (NEORV32:user:neorv32_vivado_ip:1.0 (Rev. 1)) to Vivado generation flows.
+

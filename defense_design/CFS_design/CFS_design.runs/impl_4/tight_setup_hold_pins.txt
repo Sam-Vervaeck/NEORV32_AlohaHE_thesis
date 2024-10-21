@@ -1,0 +1,15 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/core_complex.neorv32_cpu_inst/neorv32_cpu_lsu_inst/rdata_o_reg[5]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[13].axi_rdata_int_reg[13]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[11].axi_rdata_int_reg[11]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[57].axi_rdata_int_reg[57]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/core_complex.neorv32_cpu_inst/neorv32_cpu_lsu_inst/rdata_o_reg[25]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[48].axi_rdata_int_reg[48]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[56].axi_rdata_int_reg[56]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[54].axi_rdata_int_reg[54]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[14].axi_rdata_int_reg[14]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[10].axi_rdata_int_reg[10]/D|
+| clk_out1_CKKS_clk_wiz_0_0 |clk_out1_CKKS_clk_wiz_0_0 |CKKS_i/axi_bram_ctrl_0/U0/gext_inst.abcv4_0_ext_inst/GEN_AXI4.I_FULL_AXI/I_RD_CHNL/GEN_NO_RD_CMD_OPT.GEN_RDATA_NO_ECC.GEN_RDATA_NO_RL_NO_ECC.GEN_RDATA[31].axi_rdata_int_reg[31]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+

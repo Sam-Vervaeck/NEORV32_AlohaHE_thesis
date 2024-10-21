@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep  5 16:57:49 2024
+# Process ID: 2400376
+# Current directory: /home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.sim/sim_1/behav/xsim/xsim.dir/AlohaHE_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.sim/sim_1/behav/xsim/xsim.dir/AlohaHE_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Thu Sep  5 16:57:50 2024...

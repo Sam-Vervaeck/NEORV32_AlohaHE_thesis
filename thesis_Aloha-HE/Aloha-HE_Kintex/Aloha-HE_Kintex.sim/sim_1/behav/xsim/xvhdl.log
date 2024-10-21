@@ -1,0 +1,40 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/MontRed_DSP_Mult/sim/MontRed_DSP_Mult.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MontRed_DSP_Mult'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/MontRed_DSP_MultAdd/sim/MontRed_DSP_MultAdd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MontRed_DSP_MultAdd'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B_doublebuffer/sim/DSP_A_x_B_doublebuffer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DSP_A_x_B_doublebuffer'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B_p_C/sim/DSP_A_x_B_p_C.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DSP_A_x_B_p_C'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B/sim/DSP_A_x_B.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DSP_A_x_B'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_bram_ctrl_0_0/sim/AlohaHE_axi_bram_ctrl_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_axi_bram_ctrl_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_cdma_0_0/sim/AlohaHE_axi_cdma_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_axi_cdma_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_smc_0/bd_0/ip/ip_1/sim/bd_7499_psr0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bd_7499_psr0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_smc_0/bd_0/ip/ip_2/sim/bd_7499_psr_aclk_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bd_7499_psr_aclk_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_smc_0/bd_0/ip/ip_3/sim/bd_7499_psr_aclk1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bd_7499_psr_aclk1_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_timer_0_0/sim/AlohaHE_axi_timer_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_axi_timer_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_axi_uartlite_0_0/sim/AlohaHE_axi_uartlite_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_axi_uartlite_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_mdm_1_0/sim/AlohaHE_mdm_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_mdm_1_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_microblaze_1_0/sim/AlohaHE_microblaze_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_microblaze_1_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_dlmb_bram_if_cntlr_0/sim/AlohaHE_dlmb_bram_if_cntlr_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_dlmb_bram_if_cntlr_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_dlmb_v10_0/sim/AlohaHE_dlmb_v10_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_dlmb_v10_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_ilmb_bram_if_cntlr_0/sim/AlohaHE_ilmb_bram_if_cntlr_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_ilmb_bram_if_cntlr_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_ilmb_v10_0/sim/AlohaHE_ilmb_v10_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_ilmb_v10_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_proc_sys_reset_0_0/sim/AlohaHE_proc_sys_reset_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_proc_sys_reset_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/thesis-defense/thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.ip_user_files/bd/AlohaHE/ip/AlohaHE_rst_mig_7series_0_100M_0/sim/AlohaHE_rst_mig_7series_0_100M_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AlohaHE_rst_mig_7series_0_100M_0'

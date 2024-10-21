@@ -1,0 +1,48 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 15:29:15 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : report_methodology -file CKKS_wrapper_methodology_drc_routed.rpt -pb CKKS_wrapper_methodology_drc_routed.pb -rpx CKKS_wrapper_methodology_drc_routed.rpx
+| Design       : CKKS_wrapper
+| Device       : xc7k325tffg900-2
+| Speed File   : -2
+| Design State : Fully Routed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 2
++---------+----------+---------------------------------------------------+------------+
+| Rule    | Severity | Description                                       | Violations |
++---------+----------+---------------------------------------------------+------------+
+| LUTAR-1 | Warning  | LUT drives async reset alert                      | 1          |
+| XDCC-2  | Warning  | Scoped Non-Timing constraint/property overwritten | 1          |
++---------+----------+---------------------------------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+LUTAR-1#1 Warning
+LUT drives async reset alert  
+LUT cell CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/io_system.neorv32_bus_io_switch_inst/buf_adr[0]_i_1, with 2 or more inputs, drives asynchronous preset/clear pin(s) CKKS_i/neorv32_vivado_ip_0/U0/axi_radr_received_reg/CLR, CKKS_i/neorv32_vivado_ip_0/U0/axi_wadr_received_reg/CLR, CKKS_i/neorv32_vivado_ip_0/U0/axi_wdat_received_reg/CLR, CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/generators.rstn_sys_sreg_reg[0]/CLR, CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/generators.rstn_sys_sreg_reg[1]/CLR, CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/generators.rstn_sys_sreg_reg[2]/CLR, CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/generators.rstn_sys_sreg_reg[3]/CLR, CKKS_i/neorv32_vivado_ip_0/U0/neorv32_top_inst/generators.rstn_sys_reg_inv/PRE. The LUT may glitch and trigger an unexpected reset, even if it is a properly timed path.
+Related violations: <none>
+
+XDCC-2#1 Warning
+Scoped Non-Timing constraint/property overwritten  
+A new XDC property IOSTANDARD on sys_diff_clock_clk_n overrides a previous scoped property. It is not recommended to override a scoped (typically an IP) property and could result in unexpected behaviours.
+New Source: /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/constrs_1/imports/digilent-xdc/Genesys-2-Master.xdc (Line: 7)
+Previous Source: /home/sam/Documents/thesis-defense/defense_design/CFS_design/CFS_design.srcs/sources_1/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_board.xdc (Line: 4)
+Related violations: <none>
+
+

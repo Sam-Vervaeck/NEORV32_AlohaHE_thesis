@@ -1,0 +1,254 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_bram_0/sim/CKKS_axi_bram_ctrl_0_bram_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_axi_bram_ctrl_0_bram_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_xbar_0/sim/CKKS_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_xbar_1/sim/CKKS_xbar_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_xbar_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_clk_wiz_0_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_clk_wiz_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/INS_RAM/sim/INS_RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module INS_RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTAllTwiddleROM/sim/FFTAllTwiddleROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFTAllTwiddleROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTTw_RNS_ROM/sim/FFTTw_RNS_ROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFTTw_RNS_ROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/TernaryPolyBRAM/sim/TernaryPolyBRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TernaryPolyBRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/CBDPolyBRAM/sim/CBDPolyBRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CBDPolyBRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/NTTPolyBank/sim/NTTPolyBank.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NTTPolyBank
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/SharedFFTBramBank/sim/SharedFFTBramBank.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SharedFFTBramBank
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComputeCore.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ComputeCore
+INFO: [VRFC 10-2458] undeclared symbol ntt_v_dma_wea_bank1, assumed default net type wire [/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComputeCore.v:192]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComputeCoreWrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ComputeCoreWrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ISA_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ISA_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/Trivium64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module trivium64_update
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/BitReverse.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BitReverse
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/CarrySaveAdder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CarrySaveAdder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComplexMultiplier.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ComplexMultiplier
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/DelayRegister.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DelayRegister
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/DelayRegisterReset.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DelayRegisterReset
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/Expand.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Expand
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FFTButterfly.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFTButterfly
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FFTButterflyAddStage.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFTButterflyAddStage
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FFTTwFctStorage.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFTTwFctStorage
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPAdder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FLPAdder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPAdderDenormalization.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FLPAdderDenormalization
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPAdderSigAddNormalize.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FLPAdderSigAddNormalize
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPMultiplier.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FLPMultiplier
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/HammingWeight.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HammingWeight
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/INTTScale.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module INTTScale
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntMultPool.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IntMultPool
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntMultiplier_24x34.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IntMultiplier_24x34
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntMultiplier_54x54.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IntMultiplier_54x54
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntToFlP.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IntToFlPDouble
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntToFlPWrapper.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IntToFlPWrapper
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/LeadingZeroCount.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LeadingZeroCount
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ModAdd.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ModAdd
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ModMul.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ModMul
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ModSub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ModSub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/MontRed.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MontRed
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/MontRed_Stage.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MontRed_Stage
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/NTTButterfly.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NTTButterfly
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/PWM.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PWM
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/Project.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Project
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/RNS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RNS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/RNSErrorPolys.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RNSErrorPolys
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/RandomSampling.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RandomSampling
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/SharedFFTBrams.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SharedFFTBrams
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/TriviumAdapter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TriviumAdapter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedLoadLogic.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UnifiedLoadLogic
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedStoreLogic.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UnifiedStoreLogic
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedTransformation.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UnifiedTransformation
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedTwFctGen.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UnifiedTwFctGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_xlconcat_0_0/sim/CKKS_xlconcat_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_xlconcat_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_auto_pc_0/sim/CKKS_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_auto_us_0/sim/CKKS_auto_us_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_auto_us_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_auto_ds_0/sim/CKKS_auto_ds_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CKKS_auto_ds_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_0/sim/CKKS_axi_bram_ctrl_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_axi_bram_ctrl_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_bram_ctrl_1_0/sim/CKKS_axi_bram_ctrl_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_axi_bram_ctrl_1_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_cdma_0_0/sim/CKKS_axi_cdma_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_axi_cdma_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/MontRed_DSP_Mult/sim/MontRed_DSP_Mult.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MontRed_DSP_Mult'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/MontRed_DSP_MultAdd/sim/MontRed_DSP_MultAdd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MontRed_DSP_MultAdd'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B_doublebuffer/sim/DSP_A_x_B_doublebuffer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DSP_A_x_B_doublebuffer'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B_p_C/sim/DSP_A_x_B_p_C.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DSP_A_x_B_p_C'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B/sim/DSP_A_x_B.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DSP_A_x_B'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_package.vhd" into library neorv32
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_application_image.vhd" into library neorv32
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_boot_rom.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_boot_rom'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_bootloader_image.vhd" into library neorv32
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_intercon.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_bus_switch'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_bus_gateway'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_bus_io_switch'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_bus_reservation_set'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cache.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cache'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cache_host'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cache_memory'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cache_bus'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cfs.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cfs'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_clockgate.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_clockgate'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_fifo.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_fifo'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_decompressor.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_decompressor'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_control.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_control'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_regfile.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_regfile'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_shifter.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_shifter'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_muldiv.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_muldiv'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_bitmanip.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_bitmanip'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_fpu.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_fpu'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_fpu_normalizer'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_fpu_f2i'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_cfu.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_cfu'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_cond.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_cp_cond'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_alu.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_alu'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_lsu.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_lsu'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_pmp.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu_pmp'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_cpu'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_crc.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_crc'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_debug_dm.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_debug_dm'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_debug_dtm.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_debug_dtm'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_dma.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_dma'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_dmem.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_dmem'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_gpio.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_gpio'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_gptmr.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_gptmr'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_imem.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_imem'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_mtime.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_mtime'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_neoled.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_neoled'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_onewire.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_onewire'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_pwm.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_pwm'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_sdi.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_sdi'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_slink.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_slink'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_spi.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_spi'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_sysinfo.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_sysinfo'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xip.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_xip'
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_xip_phy'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xbus.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_xbus'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_wdt.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_wdt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_uart.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_uart'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_twi.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_twi'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_trng.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_trng'
+INFO: [VRFC 10-3107] analyzing entity 'neoTRNG'
+INFO: [VRFC 10-3107] analyzing entity 'neoTRNG_cell'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xirq.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_xirq'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_top.vhd" into library neorv32
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32_vivado_ip.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'neorv32_vivado_ip'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/sim/CKKS_neorv32_vivado_ip_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_neorv32_vivado_ip_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/ip/CKKS_proc_sys_reset_0_0/sim/CKKS_proc_sys_reset_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_proc_sys_reset_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/defense_design/CFS_design/CFS_design.ip_user_files/bd/CKKS/sim/CKKS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'm00_couplers_imp_1XPS17R'
+INFO: [VRFC 10-3107] analyzing entity 'm00_couplers_imp_5KETHI'
+INFO: [VRFC 10-3107] analyzing entity 'm01_couplers_imp_121OWXC'
+INFO: [VRFC 10-3107] analyzing entity 'm01_couplers_imp_SDURF5'
+INFO: [VRFC 10-3107] analyzing entity 's00_couplers_imp_1MGPU5V'
+INFO: [VRFC 10-3107] analyzing entity 's00_couplers_imp_H6BXUA'
+INFO: [VRFC 10-3107] analyzing entity 's01_couplers_imp_M4DVNP'
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_axi_interconnect_0_0'
+INFO: [VRFC 10-3107] analyzing entity 'CKKS_axi_interconnect_1_0'
+INFO: [VRFC 10-3107] analyzing entity 'CKKS'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sam/Documents/git_version/thesis_neorv32/rtl/system_integration/test_CKKS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_CKKS'

@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xil_defaultlib -L xpm -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.DSP_A_x_B_p_C xil_defaultlib.glbl -o DSP_A_x_B_p_C_opt

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/MontRed_DSP_Mult/sim/MontRed_DSP_Mult.vhd" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/MontRed_DSP_MultAdd/sim/MontRed_DSP_MultAdd.vhd" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B_doublebuffer/sim/DSP_A_x_B_doublebuffer.vhd" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B_p_C/sim/DSP_A_x_B_p_C.vhd" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B/sim/DSP_A_x_B.vhd" \
+"../../../../../../../thesis/test_ComputeCoreWrapper_test.vhd" \
+
+# Do not sort compile order
+nosort

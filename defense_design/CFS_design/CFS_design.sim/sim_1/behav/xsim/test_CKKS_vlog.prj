@@ -1,0 +1,70 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ec67/hdl" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/c923" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ca68/src" --include "../../../../../../thesis_Aloha-HE/Aloha-HE_Common" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_bram_0/sim/CKKS_axi_bram_ctrl_0_bram_0.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_xbar_0/sim/CKKS_xbar_0.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_xbar_1/sim/CKKS_xbar_1.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_clk_wiz.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/INS_RAM/sim/INS_RAM.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTAllTwiddleROM/sim/FFTAllTwiddleROM.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTTw_RNS_ROM/sim/FFTTw_RNS_ROM.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/TernaryPolyBRAM/sim/TernaryPolyBRAM.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/CBDPolyBRAM/sim/CBDPolyBRAM.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/NTTPolyBank/sim/NTTPolyBank.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/SharedFFTBramBank/sim/SharedFFTBramBank.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComputeCore.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComputeCoreWrapper.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ISA_control.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/Trivium64.v" \
+
+sv xil_defaultlib  --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ec67/hdl" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/c923" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ca68/src" --include "../../../../../../thesis_Aloha-HE/Aloha-HE_Common" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/BitReverse.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/CarrySaveAdder.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ComplexMultiplier.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/DelayRegister.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/DelayRegisterReset.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/Expand.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FFTButterfly.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FFTButterflyAddStage.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FFTTwFctStorage.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPAdder.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPAdderDenormalization.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPAdderSigAddNormalize.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/FLPMultiplier.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/HammingWeight.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/INTTScale.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntMultPool.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntMultiplier_24x34.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntMultiplier_54x54.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntToFlP.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/IntToFlPWrapper.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/LeadingZeroCount.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ModAdd.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ModMul.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/ModSub.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/MontRed.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/MontRed_Stage.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/NTTButterfly.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/PWM.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/Project.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/RNS.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/RNSErrorPolys.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/RandomSampling.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/SharedFFTBrams.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/TriviumAdapter.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedLoadLogic.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedStoreLogic.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedTransformation.sv" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/UnifiedTwFctGen.sv" \
+
+verilog xil_defaultlib  --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ec67/hdl" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/c923" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ca68/src" --include "../../../../../../thesis_Aloha-HE/Aloha-HE_Common" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_xlconcat_0_0/sim/CKKS_xlconcat_0_0.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_auto_pc_0/sim/CKKS_auto_pc_0.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_auto_us_0/sim/CKKS_auto_us_0.v" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_auto_ds_0/sim/CKKS_auto_ds_0.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

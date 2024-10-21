@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "neorv32_xirq.h": "c",
+        "fulldec.h": "c",
+        "neorv32.h": "c",
+        "math.h": "c",
+        "ckkstest.h": "c"
+    }
+}

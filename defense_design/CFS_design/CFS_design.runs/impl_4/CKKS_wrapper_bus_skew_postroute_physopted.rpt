@@ -1,0 +1,15 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Sun Sep  8 15:29:42 2024
+| Host         : sam-cosic running 64-bit Ubuntu 20.04.6 LTS
+| Command      : report_bus_skew -warn_on_violation -file CKKS_wrapper_bus_skew_postroute_physopted.rpt -pb CKKS_wrapper_bus_skew_postroute_physopted.pb -rpx CKKS_wrapper_bus_skew_postroute_physopted.rpx
+| Design       : CKKS_wrapper
+| Device       : 7k325t-ffg900
+| Speed File   : -2  PRODUCTION 1.12 2017-02-17
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

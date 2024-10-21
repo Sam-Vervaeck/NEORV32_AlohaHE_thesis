@@ -1,0 +1,65 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../Aloha-HE_Common" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/ComputeCoreWrapper_test/ipshared/c923" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/ec67/hdl" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/1ddd/hdl/verilog" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/b2d0/hdl/verilog" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/c923" --include "/tools/Xilinx/Vivado/2019.1/data/xilinx_vip/include" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/INS_RAM/sim/INS_RAM.v" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/FFTAllTwiddleROM/sim/FFTAllTwiddleROM.v" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/FFTTw_RNS_ROM/sim/FFTTw_RNS_ROM.v" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/TernaryPolyBRAM/sim/TernaryPolyBRAM.v" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/CBDPolyBRAM/sim/CBDPolyBRAM.v" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/NTTPolyBank/sim/NTTPolyBank.v" \
+"../../../../Aloha-HE_Kintex.srcs/sources_1/ip/SharedFFTBramBank/sim/SharedFFTBramBank.v" \
+"../../../../../Aloha-HE_Common/ComputeCore.v" \
+"../../../../../Aloha-HE_Common/ISA_control.v" \
+"../../../../../Aloha-HE_Common/RandomSampling/Trivium64.v" \
+
+sv xil_defaultlib  --include "../../../../../Aloha-HE_Common" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/ComputeCoreWrapper_test/ipshared/c923" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/ec67/hdl" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/1ddd/hdl/verilog" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/b2d0/hdl/verilog" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/c923" --include "/tools/Xilinx/Vivado/2019.1/data/xilinx_vip/include" \
+"../../../../../Aloha-HE_Common/Utils/BitReverse.sv" \
+"../../../../../Aloha-HE_Common/Utils/CarrySaveAdder.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/ComplexMultiplier.sv" \
+"../../../../../Aloha-HE_Common/Utils/DelayRegister.sv" \
+"../../../../../Aloha-HE_Common/Utils/DelayRegisterReset.sv" \
+"../../../../../Aloha-HE_Common/Utils/Expand.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FFTButterfly.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FFTButterflyAddStage.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FFTTwFctStorage.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FLPAdder.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FLPAdderDenormalization.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FLPAdderSigAddNormalize.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/FLPMultiplier.sv" \
+"../../../../../Aloha-HE_Common/Utils/HammingWeight.sv" \
+"../../../../../Aloha-HE_Common/ModRing/INTTScale.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/IntMultPool.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/IntMultiplier_24x34.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/IntMultiplier_54x54.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/IntToFlP.sv" \
+"../../../../../Aloha-HE_Common/FloatingPoint/IntToFlPWrapper.sv" \
+"../../../../../Aloha-HE_Common/Utils/LeadingZeroCount.sv" \
+"../../../../../Aloha-HE_Common/ModRing/ModAdd.sv" \
+"../../../../../Aloha-HE_Common/ModRing/ModMul.sv" \
+"../../../../../Aloha-HE_Common/ModRing/ModSub.sv" \
+"../../../../../Aloha-HE_Common/ModRing/MontRed.sv" \
+"../../../../../Aloha-HE_Common/ModRing/MontRed_Stage.sv" \
+"../../../../../Aloha-HE_Common/ModRing/NTTButterfly.sv" \
+"../../../../../Aloha-HE_Common/ModRing/PWM.sv" \
+"../../../../../Aloha-HE_Common/Utils/Project.sv" \
+"../../../../../Aloha-HE_Common/ModRing/RNS.sv" \
+"../../../../../Aloha-HE_Common/ModRing/RNSErrorPolys.sv" \
+"../../../../../Aloha-HE_Common/RandomSampling/RandomSampling.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/SharedFFTBrams.sv" \
+"../../../../../Aloha-HE_Common/RandomSampling/TriviumAdapter.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/UnifiedLoadLogic.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/UnifiedStoreLogic.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/UnifiedTransformation.sv" \
+"../../../../../Aloha-HE_Common/SharedArithmetics/UnifiedTwFctGen.sv" \
+
+verilog xil_defaultlib  --include "../../../../../Aloha-HE_Common" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/ComputeCoreWrapper_test/ipshared/c923" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/ec67/hdl" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/1ddd/hdl/verilog" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/b2d0/hdl/verilog" --include "../../../../Aloha-HE_Kintex.srcs/sources_1/bd/AlohaHE/ipshared/c923" --include "/tools/Xilinx/Vivado/2019.1/data/xilinx_vip/include" \
+"../../../../../Aloha-HE_Common/ComputeCoreWrapper.v" \
+"../../../../Aloha-HE_Kintex.ip_user_files/bd/ComputeCoreWrapper_test/ip/ComputeCoreWrapper_test_ComputeCoreWrapper_0_0/sim/ComputeCoreWrapper_test_ComputeCoreWrapper_0_0.v" \
+"../../../../Aloha-HE_Kintex.ip_user_files/bd/ComputeCoreWrapper_test/ip/ComputeCoreWrapper_test_clk_wiz_0/ComputeCoreWrapper_test_clk_wiz_0_clk_wiz.v" \
+"../../../../Aloha-HE_Kintex.ip_user_files/bd/ComputeCoreWrapper_test/ip/ComputeCoreWrapper_test_clk_wiz_0/ComputeCoreWrapper_test_clk_wiz_0.v" \
+"../../../../Aloha-HE_Kintex.ip_user_files/bd/ComputeCoreWrapper_test/sim/ComputeCoreWrapper_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

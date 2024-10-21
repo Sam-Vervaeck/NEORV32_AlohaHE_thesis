@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"ComputeCoreWrapper_test": {
+			"proto_instances": {
+			}
+		}
+	}
+}

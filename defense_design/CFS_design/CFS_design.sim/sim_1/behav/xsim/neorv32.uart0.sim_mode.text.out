@@ -1,0 +1,103 @@
+
+<<< CKKS MAIN FILE BEGIN >>>
+
+Reset and init
+CDMA: IDLE bit is set
+
+CKKS ENCRYPT START
+CDMA: setting source address to 0xf0000000
+                             is 0xf0000000
+CDMA: setting destin address to 0xf2030000
+                             is 0xf2030000
+CDMA: sending 65536 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+Aloha: Start execution
+Aloha: End execution
+CDMA: setting source address to 0xf0010008
+                             is 0xf0010008
+CDMA: setting destin address to 0xf2010000
+                             is 0xf2010000
+CDMA: sending 65536 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+Aloha: Start execution
+Aloha: End execution
+CDMA: setting source address to 0xf2000000
+                             is 0xf2000000
+CDMA: setting destin address to 0xf0041000
+                             is 0xf0041000
+CDMA: sending 131072 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+CDMA: setting source address to 0xf0020010
+                             is 0xf0020010
+CDMA: setting destin address to 0xf2010000
+                             is 0xf2010000
+CDMA: sending 65536 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+Aloha: Start execution
+Aloha: End execution
+CDMA: setting source address to 0xf2000000
+                             is 0xf2000000
+CDMA: setting destin address to 0xf0061000
+                             is 0xf0061000
+CDMA: sending 131072 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+CDMA: setting source address to 0xf0030018
+                             is 0xf0030018
+CDMA: setting destin address to 0xf2010000
+                             is 0xf2010000
+CDMA: sending 65536 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+Aloha: Start execution
+Aloha: End execution
+CDMA: setting source address to 0xf2000000
+                             is 0xf2000000
+CDMA: setting destin address to 0xf0081000
+                             is 0xf0081000
+CDMA: sending 131072 bytes
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is NOT set
+CDMA: IDLE bit is set
+
+CKKS ENCRYPT END
+Hardware tests took 000000000008cdda cpu cc, about 0000000000001019 us
+
+CHECK CKKS ENCRYPT START
+Checking modulus 0
+Checking modulus 1
+Checking modulus 2
+
+CHECK CKKS ENCRYPT END
+#################################
+#              OK!              #
+#################################
+
+<<< CKKS MAIN FILE END >>>
+

@@ -1,0 +1,67 @@
+verilog xil_defaultlib --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ec67/hdl" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/c923" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ca68/src" \
+"../../../bd/CKKS/ip/CKKS_axi_bram_ctrl_0_bram_0/sim/CKKS_axi_bram_ctrl_0_bram_0.v" \
+"../../../bd/CKKS/ip/CKKS_xbar_0/sim/CKKS_xbar_0.v" \
+"../../../bd/CKKS/ip/CKKS_xbar_1/sim/CKKS_xbar_1.v" \
+"../../../bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/CKKS/ip/CKKS_clk_wiz_0_0/CKKS_clk_wiz_0_0.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/INS_RAM/sim/INS_RAM.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTAllTwiddleROM/sim/FFTAllTwiddleROM.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTTw_RNS_ROM/sim/FFTTw_RNS_ROM.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/TernaryPolyBRAM/sim/TernaryPolyBRAM.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/CBDPolyBRAM/sim/CBDPolyBRAM.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/NTTPolyBank/sim/NTTPolyBank.v" \
+"../../../bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/SharedFFTBramBank/sim/SharedFFTBramBank.v" \
+"../../../bd/CKKS/ipshared/ca68/src/ComputeCore.v" \
+"../../../bd/CKKS/ipshared/ca68/src/ComputeCoreWrapper.v" \
+"../../../bd/CKKS/ipshared/ca68/src/ISA_control.v" \
+"../../../bd/CKKS/ipshared/ca68/src/Trivium64.v" \
+
+sv xil_defaultlib --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ec67/hdl" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/c923" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ca68/src" \
+"../../../bd/CKKS/ipshared/ca68/src/BitReverse.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/CarrySaveAdder.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/ComplexMultiplier.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/DelayRegister.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/DelayRegisterReset.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/Expand.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FFTButterfly.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FFTButterflyAddStage.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FFTTwFctStorage.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FLPAdder.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FLPAdderDenormalization.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FLPAdderSigAddNormalize.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/FLPMultiplier.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/HammingWeight.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/INTTScale.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/IntMultPool.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/IntMultiplier_24x34.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/IntMultiplier_54x54.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/IntToFlP.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/IntToFlPWrapper.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/LeadingZeroCount.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/ModAdd.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/ModMul.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/ModSub.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/MontRed.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/MontRed_Stage.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/NTTButterfly.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/PWM.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/Project.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/RNS.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/RNSErrorPolys.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/RandomSampling.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/SharedFFTBrams.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/TriviumAdapter.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/UnifiedLoadLogic.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/UnifiedStoreLogic.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/UnifiedTransformation.sv" \
+"../../../bd/CKKS/ipshared/ca68/src/UnifiedTwFctGen.sv" \
+
+verilog xil_defaultlib --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ec67/hdl" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/c923" --include "../../../../CFS_design.srcs/sources_1/bd/CKKS/ipshared/ca68/src" \
+"../../../bd/CKKS/ip/CKKS_xlconcat_0_0/sim/CKKS_xlconcat_0_0.v" \
+"../../../bd/CKKS/ip/CKKS_auto_pc_0/sim/CKKS_auto_pc_0.v" \
+"../../../bd/CKKS/ip/CKKS_auto_us_0/sim/CKKS_auto_us_0.v" \
+"../../../bd/CKKS/ip/CKKS_auto_ds_0/sim/CKKS_auto_ds_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

@@ -1,0 +1,186 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x8A1F0CA6627DD41E",
+      "device": "xc7k325tffg900-2",
+      "name": "ComputeCoreWrapper_test",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2019.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "clk_wiz": "",
+      "ComputeCoreWrapper_0": ""
+    },
+    "ports": {
+      "resetn_0": {
+        "type": "rst",
+        "direction": "I",
+        "parameters": {
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "POLARITY": {
+            "value": "ACTIVE_LOW",
+            "value_src": "default"
+          }
+        }
+      },
+      "clk_in1_0": {
+        "type": "clk",
+        "direction": "I",
+        "parameters": {
+          "CLK_DOMAIN": {
+            "value": "ComputeCoreWrapper_test_clk_in1_0",
+            "value_src": "default"
+          },
+          "FREQ_HZ": {
+            "value": "100000000",
+            "value_src": "default"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          }
+        }
+      },
+      "status_0": {
+        "direction": "O",
+        "left": "31",
+        "right": "0"
+      }
+    },
+    "components": {
+      "clk_wiz": {
+        "vlnv": "xilinx.com:ip:clk_wiz:6.0",
+        "xci_name": "ComputeCoreWrapper_test_clk_wiz_0",
+        "parameters": {
+          "RESET_PORT": {
+            "value": "resetn"
+          },
+          "RESET_TYPE": {
+            "value": "ACTIVE_LOW"
+          }
+        }
+      },
+      "ComputeCoreWrapper_0": {
+        "vlnv": "xilinx.com:module_ref:ComputeCoreWrapper:1.0",
+        "xci_name": "ComputeCoreWrapper_test_ComputeCoreWrapper_0_0",
+        "reference_info": {
+          "ref_type": "hdl",
+          "ref_name": "ComputeCoreWrapper",
+          "boundary_crc": "0x0"
+        },
+        "ports": {
+          "clk": {
+            "type": "clk",
+            "direction": "I",
+            "parameters": {
+              "CLK_DOMAIN": {
+                "value": "/clk_wiz_clk_out1",
+                "value_src": "ip_prop"
+              },
+              "FREQ_HZ": {
+                "value": "100000000",
+                "value_src": "ip_prop"
+              },
+              "PHASE": {
+                "value": "0.0",
+                "value_src": "ip_prop"
+              }
+            }
+          },
+          "control_low_word": {
+            "direction": "I",
+            "left": "31",
+            "right": "0"
+          },
+          "control_high_word": {
+            "direction": "I",
+            "left": "31",
+            "right": "0"
+          },
+          "dina_ext_low_word": {
+            "direction": "I",
+            "left": "31",
+            "right": "0"
+          },
+          "dina_ext_high_word": {
+            "direction": "I",
+            "left": "31",
+            "right": "0"
+          },
+          "dout_ext_low_word": {
+            "direction": "O",
+            "left": "31",
+            "right": "0"
+          },
+          "dout_ext_high_word": {
+            "direction": "O",
+            "left": "31",
+            "right": "0"
+          },
+          "status": {
+            "direction": "O",
+            "left": "31",
+            "right": "0"
+          },
+          "dma_bram_byte_wea": {
+            "direction": "I",
+            "left": "7",
+            "right": "0"
+          },
+          "dma_bram_abs_addr": {
+            "direction": "I",
+            "left": "17",
+            "right": "0"
+          },
+          "dma_bram_dina": {
+            "direction": "I",
+            "left": "63",
+            "right": "0"
+          },
+          "dma_bram_doutb": {
+            "direction": "O",
+            "left": "63",
+            "right": "0"
+          },
+          "dma_bram_en": {
+            "direction": "I"
+          }
+        }
+      }
+    },
+    "nets": {
+      "clk_wiz_clk_out1": {
+        "ports": [
+          "clk_wiz/clk_out1",
+          "ComputeCoreWrapper_0/clk"
+        ]
+      },
+      "resetn_0_1": {
+        "ports": [
+          "resetn_0",
+          "clk_wiz/resetn"
+        ]
+      },
+      "clk_in1_0_1": {
+        "ports": [
+          "clk_in1_0",
+          "clk_wiz/clk_in1"
+        ]
+      },
+      "ComputeCoreWrapper_0_status": {
+        "ports": [
+          "ComputeCoreWrapper_0/status",
+          "status_0"
+        ]
+      }
+    }
+  }
+}

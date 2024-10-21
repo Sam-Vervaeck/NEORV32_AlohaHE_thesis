@@ -1,0 +1,68 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_bram_ctrl_0_0/sim/CKKS_axi_bram_ctrl_0_0.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_bram_ctrl_1_0/sim/CKKS_axi_bram_ctrl_1_0.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_axi_cdma_0_0/sim/CKKS_axi_cdma_0_0.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/MontRed_DSP_Mult/sim/MontRed_DSP_Mult.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/MontRed_DSP_MultAdd/sim/MontRed_DSP_MultAdd.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B_doublebuffer/sim/DSP_A_x_B_doublebuffer.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B_p_C/sim/DSP_A_x_B_p_C.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/DSP_A_x_B/sim/DSP_A_x_B.vhd" \
+
+vhdl neorv32  \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_package.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_application_image.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_boot_rom.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_bootloader_image.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_intercon.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cache.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cfs.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_clockgate.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_fifo.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_decompressor.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_control.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_regfile.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_shifter.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_muldiv.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_bitmanip.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_fpu.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_cfu.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_cp_cond.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_alu.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_lsu.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu_pmp.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_cpu.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_crc.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_debug_dm.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_debug_dtm.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_dma.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_dmem.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_gpio.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_gptmr.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_imem.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_mtime.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_neoled.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_onewire.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_pwm.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_sdi.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_slink.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_spi.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_sysinfo.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xip.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xbus.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_wdt.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_uart.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_twi.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_trng.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_xirq.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32/neorv32_top.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ipshared/ca68/src/neorv32_vivado_ip.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/sim/CKKS_neorv32_vivado_ip_0_0.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/ip/CKKS_proc_sys_reset_0_0/sim/CKKS_proc_sys_reset_0_0.vhd" \
+"../../../../CFS_design.ip_user_files/bd/CKKS/sim/CKKS.vhd" \
+"../../../../../../thesis_neorv32/rtl/system_integration/test_CKKS.vhd" \
+
+# Do not sort compile order
+nosort

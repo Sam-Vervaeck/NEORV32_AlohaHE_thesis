@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_4" LaunchPart="xc7k325tffg900-2" LaunchTime="1725792441">
+  <File Type="ROUTE-DRC-RPX" Name="CKKS_wrapper_drc_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="CKKS_wrapper_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS-PB" Name="CKKS_wrapper_route_status.pb"/>
+  <File Type="BG-BIT" Name="CKKS_wrapper.bit"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="CKKS_wrapper_methodology_drc_routed.rpt"/>
+  <File Type="BG-DRC" Name="CKKS_wrapper.drc"/>
+  <File Type="ROUTE-ERROR-DCP" Name="CKKS_wrapper_routed_error.dcp"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CKKS_wrapper_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-PWR" Name="CKKS_wrapper_power_routed.rpt"/>
+  <File Type="OPT-DCP" Name="CKKS_wrapper_opt.dcp"/>
+  <File Type="ROUTE-DRC-PB" Name="CKKS_wrapper_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="CKKS_wrapper_drc_routed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="CKKS_wrapper_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BITSTR-MMI" Name="CKKS_wrapper.mmi"/>
+  <File Type="ROUTE-BUS-SKEW" Name="CKKS_wrapper_bus_skew_routed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="CKKS_wrapper_postplace_pwropt.dcp"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="CKKS_wrapper_routed_bb.dcp"/>
+  <File Type="BG-BGN" Name="CKKS_wrapper.bgn"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="CKKS_wrapper_postroute_physopt.dcp"/>
+  <File Type="BITSTR-MSK" Name="CKKS_wrapper.msk"/>
+  <File Type="ROUTE-TIMING-PB" Name="CKKS_wrapper_timing_summary_routed.pb"/>
+  <File Type="PA-TCL" Name="CKKS_wrapper.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="CKKS_wrapper_bus_skew_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="CKKS_wrapper.sysdef"/>
+  <File Type="BITSTR-RBT" Name="CKKS_wrapper.rbt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="CKKS_wrapper_timing_summary_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="CKKS_wrapper_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="CKKS_wrapper_bus_skew_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="CKKS_wrapper.ltx"/>
+  <File Type="OPT-HWDEF" Name="CKKS_wrapper.hwdef"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CKKS_wrapper_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CKKS_wrapper_bus_skew_postroute_physopted.rpx"/>
+  <File Type="PLACE-UTIL-PB" Name="CKKS_wrapper_utilization_placed.pb"/>
+  <File Type="BITSTR-BMM" Name="CKKS_wrapper_bd.bmm"/>
+  <File Type="ROUTE-CLK" Name="CKKS_wrapper_clock_utilization_routed.rpt"/>
+  <File Type="BITSTR-NKY" Name="CKKS_wrapper.nky"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="CKKS_wrapper_timing_summary_routed.rpt"/>
+  <File Type="BG-BIN" Name="CKKS_wrapper.bin"/>
+  <File Type="PLACE-CTRL" Name="CKKS_wrapper_control_sets_placed.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="CKKS_wrapper_physopt.dcp"/>
+  <File Type="ROUTE-DCP" Name="CKKS_wrapper_routed.dcp"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CKKS_wrapper_methodology_drc_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CKKS_wrapper_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CKKS_wrapper_bus_skew_postroute_physopted.pb"/>
+  <File Type="PLACE-UTIL" Name="CKKS_wrapper_utilization_placed.rpt"/>
+  <File Type="RDI-RDI" Name="CKKS_wrapper.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CKKS_wrapper_timing_summary_postroute_physopted.rpx"/>
+  <File Type="PLACE-IO" Name="CKKS_wrapper_io_placed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CKKS_wrapper_timing_summary_postroute_physopted.rpt"/>
+  <File Type="OPT-DRC" Name="CKKS_wrapper_drc_opted.rpt"/>
+  <File Type="PLACE-DCP" Name="CKKS_wrapper_placed.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CKKS_wrapper_postroute_physopt_bb.dcp"/>
+  <File Type="PWROPT-DCP" Name="CKKS_wrapper_pwropt.dcp"/>
+  <File Type="ROUTE-PWR-RPX" Name="CKKS_wrapper_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="CKKS_wrapper_route_status.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/bd/CKKS/CKKS.bd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CKKS/hdl/CKKS_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CFS_XBUS_CDMA_test/hdl/CFS_XBUS_CDMA_test_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CFS_XBUS_CDMA_Aloha_test/hdl/CFS_XBUS_CDMA_Aloha_test_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CFS_XBUS_test/hdl/CFS_XBUS_test_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CFS_test/hdl/CFS_test_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_package.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_application_image.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_boot_rom.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_bootloader_image.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_intercon.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cache.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cfs.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_clockgate.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_fifo.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_decompressor.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_control.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_regfile.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_cp_shifter.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_cp_muldiv.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_cp_bitmanip.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_cp_fpu.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_cp_cfu.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_cp_cond.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_alu.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_lsu.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu_pmp.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_cpu.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_crc.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_debug_dm.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_debug_dtm.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_dma.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_dmem.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_gpio.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_gptmr.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_imem.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_mtime.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_neoled.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_onewire.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_pwm.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_sdi.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_slink.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_spi.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_sysinfo.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_xip.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_xbus.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_wdt.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_uart.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_twi.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_trng.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_xirq.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/core/neorv32_top.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/test_setups/neorv32_test_setup_approm.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/test_setups/neorv32_test_setup_on_chip_debugger.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_neorv32/rtl/test_setups/neorv32_test_setup_bootloader.vhd">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/PWM.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FLPMultiplier.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ComputeCoreWrapper.v">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FFTButterflyAddStage.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/MontRed.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/ModMul.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/CarrySaveAdder.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/ModSub.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/ComplexMultiplier.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/IntMultiplier_24x34.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/UnifiedTwFctGen.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/SharedFFTBrams.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/NTTButterfly.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/BitReverse.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/UnifiedStoreLogic.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/IntToFlPWrapper.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/IntToFlP.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FLPAdder.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/RandomSampling/RandomSampling.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/DelayRegister.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/DelayRegisterReset.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/LeadingZeroCount.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FLPAdderDenormalization.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/HammingWeight.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/CommonDefinitions.vh">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/UnifiedLoadLogic.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ComputeCore.v">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/RNSErrorPolys.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/IntMultiplier_54x54.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/Expand.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ISA_control.v">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/INTTScale.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/AXISlave8Ports.v">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/UnifiedTransformation.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/ModAdd.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FFTTwFctStorage.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FFTButterfly.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/MontRed_Stage.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/Utils/Project.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/SharedArithmetics/IntMultPool.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/FloatingPoint/FLPAdderSigAddNormalize.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/ModRing/RNS.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/RandomSampling/Trivium64.v">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/RandomSampling/TriviumAdapter.sv">
+      <FileInfo>
+        <Attr Name="Library" Val="neorv32"/>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../CKKS.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/MemoryInitializationFiles/FFTStoredTwiddleFactors.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Common/MemoryInitializationFiles/TwFctrCache_RNSConsts.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../thesis-defense/defense_design/cdma_coe_test_64_quadruple.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../thesis-defense/defense_design/cdma_coe_test_64.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/MontRed_DSP_MultAdd/MontRed_DSP_MultAdd.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B_p_C/DSP_A_x_B_p_C.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/SharedFFTBramBank/SharedFFTBramBank.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/CBDPolyBRAM/CBDPolyBRAM.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/MontRed_DSP_Mult/MontRed_DSP_Mult.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B_doublebuffer/DSP_A_x_B_doublebuffer.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/FFTAllTwiddleROM/FFTAllTwiddleROM.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/NTTPolyBank/NTTPolyBank.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/DSP_A_x_B/DSP_A_x_B.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/FFTTw_RNS_ROM/FFTTw_RNS_ROM.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/INS_RAM/INS_RAM.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../thesis_Aloha-HE/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/sources_1/ip/TernaryPolyBRAM/TernaryPolyBRAM.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/FFTStoredTwiddleFactors.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/CKKS/ip/CKKS_neorv32_vivado_ip_0_0/src/TwFctrCache_RNSConsts.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="CKKS_wrapper"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/digilent-xdc/Genesys-2-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../thesis/thesis_design/Aloha-HE_Kintex/Aloha-HE_Kintex.srcs/constrs_1/imports/digilent-xdc/Genesys-2-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1723215140"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Performance_ExplorePostRoutePhysOpt" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design">
+      <Option Id="Directive">0</Option>
+    </Step>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design">
+      <Option Id="Directive">0</Option>
+    </Step>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1">
+      <Option Id="Directive">0</Option>
+    </Step>
+    <Step Id="route_design">
+      <Option Id="MoreOptsStr"><![CDATA[-tns_cleanup]]></Option>
+      <Option Id="Directive">0</Option>
+    </Step>
+    <Step Id="post_route_phys_opt_design" EnableStepBool="1">
+      <Option Id="Directive">0</Option>
+    </Step>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_cdma_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_clk_wiz_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_0_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_proc_sys_reset_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_1_bram_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_cdma_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_xbar_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_xbar_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_proc_sys_reset_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_1_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_clk_wiz_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_axi_bram_ctrl_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_neorv32_vivado_ip_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CFS_XBUS_CDMA_test_xbar_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="CKKS_axi_bram_ctrl_1_0"/>
+</GenRun>
